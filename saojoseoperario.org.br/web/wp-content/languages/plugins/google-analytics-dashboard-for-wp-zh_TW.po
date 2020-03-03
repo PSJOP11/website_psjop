@@ -1,0 +1,1099 @@
+# Translation of Plugins - Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP) - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP) - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-02-18 16:40:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Google Analytics Dashboard for WP by ExactMetrics (formerly GADWP) - Stable (latest release)\n"
+
+#: admin/settings.php:114 admin/settings.php:209 admin/settings.php:406
+#: admin/settings.php:1296 admin/settings.php:1306 admin/settings.php:1346
+#: admin/settings.php:1352 admin/settings.php:1362 admin/settings.php:1660
+#: admin/settings.php:1668 admin/settings.php:1678 admin/settings.php:1684
+#: admin/settings.php:1694
+msgid "You don’t have permission to do this."
+msgstr "目前的登入身分沒有進行這項操作的權限。"
+
+#: admin/tracking.php:263
+msgid "Once Weekly"
+msgstr "每週一次"
+
+#: admin/tracking.php:251
+msgid "No thanks"
+msgstr "不提供協助"
+
+#: admin/tracking.php:250
+msgid "Yes, I'd like to help out"
+msgstr "可以，我願意提供協助"
+
+#: admin/tracking.php:249
+msgid "ExactMetrics would like to better understand how our users use our plugin so we can get a better understanding of which features and bugfixes to prioritize. %1$sCan we collect some %2$sinformation about our plugin usage?%3$s"
+msgstr "ExactMetrics 希望能更加瞭解使用者使用這個外掛的方式，並用來作為功能開發及錯誤修正的決策依據。%1$s請問我們能%2$s收集你對於這個外掛的使用方式資訊%3$s嗎？"
+
+#: admin/settings.php:1524
+msgid "ExactMetrics would like to %1$scollect some information%2$s to better understand how our users use our plugin to better prioritize features and bugfixes."
+msgstr "ExactMetrics 希望能%1$s收集相關資訊%2$s，藉以更加瞭解使用者使用這個外掛的方式，並用來作為功能開發及錯誤修正的決策依據。"
+
+#: admin/settings.php:1513
+msgid "Usage Tracking"
+msgstr "使用方式追蹤"
+
+#: admin/settings.php:368 admin/settings.php:1886
+msgid "Hides plugin announcements and update details. This includes critical notices we use to inform about deprecations and important required configuration changes."
+msgstr "隱藏外掛通知及更新詳細資訊。這項通知包含了告知功能取消及重大必要設定變更的重要通知。"
+
+#: admin/settings.php:357 admin/settings.php:1875
+msgid "Hide Announcements"
+msgstr "隱藏通知"
+
+#. Author of the plugin
+msgid "ExactMetrics"
+msgstr "ExactMetrics"
+
+#: admin/settings.php:1957
+msgid "%s with our quick start guide."
+msgstr "透過快速入門指南%s。"
+
+#: admin/settings.php:1957
+msgid "Get started"
+msgstr "開始使用"
+
+#: admin/settings.php:1964
+msgid "%s with our guide to what you need to know."
+msgstr "我們的指南中有所有網站管理員該知道的事項，這樣方能%s。"
+
+#: admin/settings.php:1964
+msgid "Get ready for GDPR"
+msgstr "為 GDPR 準備就緒"
+
+#: admin/settings.php:1977
+msgid "Recommended Plugins"
+msgstr "推薦的外掛"
+
+#: admin/settings.php:1984
+msgid "%s the most beginner friendly drag and drop form builder plugin for WordPress."
+msgstr "%s 是對初學者最友善的 WordPress 拖放式表單建置外掛。"
+
+#: admin/settings.php:1984
+msgid "WPForms"
+msgstr "WPForms"
+
+#: admin/settings.php:1991
+msgid "OptinMonster"
+msgstr "OptinMonster"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://exactmetrics.com"
+msgstr "https://exactmetrics.com"
+
+#: admin/settings.php:1991
+msgid "%s the best conversion optimization toolkit to boost your subscribers and grow your sales."
+msgstr "%s 是最棒的轉換最佳化工具組，可提升網站的訂閱量及營業銷售額。"
+
+#: admin/settings.php:468
+msgid "use global site tag gtag.js (not recommended)"
+msgstr "使用全域網站代碼 gtag.js (Global Site Tag，不建議)"
+
+#: admin/settings.php:803 admin/settings.php:1032
+msgid "enable support for user opt-out"
+msgstr "支援使用者不透露資訊"
+
+#: admin/settings.php:815 admin/settings.php:1044
+msgid "exclude tracking for users sending Do Not Track header"
+msgstr "排除追蹤送出 [不追蹤] 標頭的使用者"
+
+#: admin/settings.php:1161
+msgid "System"
+msgstr "系統"
+
+#: admin/settings.php:1220
+msgid "System Information"
+msgstr "系統資訊"
+
+#: admin/settings.php:1287
+msgid "You can only use the access code <strong>once</strong>, please generate a <strong>new access</strong> code following the instructions!"
+msgstr "每個授權碼僅能使用<strong>一次</strong>，請遵照指示以產生並取得<strong>新的授權碼</strong>。"
+
+#: admin/settings.php:1399 admin/settings.php:1752
+msgid "You need to create a %1$s and watch this %2$s before proceeding to authorization."
+msgstr "在進行授權前，請先建立%1$s，並觀看這部%2$s。"
+
+#: admin/settings.php:1399 admin/settings.php:1752
+msgid "video tutorial"
+msgstr "教學課程影片"
+
+#: admin/settings.php:1634
+msgid "You can only use the access code <strong>once</strong>, please generate a <strong>new access code</strong> using the red link"
+msgstr "每個授權碼僅能使用<strong>一次</strong>，請使用紅色連結以產生並取得<strong>新的授權碼</strong>。"
+
+#: admin/settings.php:1399 admin/settings.php:1752
+msgid "free analytics account"
+msgstr "免費的 Google Analytics 帳戶"
+
+#: admin/settings.php:1285 admin/settings.php:1632
+msgid "The access code is <strong>not</strong> your <strong>Tracking ID</strong> (UA-XXXXX-X) <strong>nor</strong> your <strong>email address</strong>!"
+msgstr "授權碼<strong>不是</strong>你的 GA <strong>追蹤 ID</strong> (UA-XXXXX-X)，也<strong>不是</strong>你的<strong>電子郵件地址</strong>！"
+
+#: admin/settings.php:1382 admin/settings.php:1714
+msgid "Use the red link (see below) to generate and get your access code! You need to generate a new code each time you authorize!"
+msgstr "使用下方紅色連結以產生並取得授權碼！請注意，每次進行授權都必須產生並使用新的授權碼！"
+
+#: admin/views/access-code.php:14
+msgid "Use this link to get your <strong>one-time-use</strong> access code:"
+msgstr "透過這個連結以取得<strong>一次性</strong>授權碼:"
+
+#: admin/views/access-code.php:19 admin/views/access-code.php:22
+msgid "Use the red link to get your access code! You need to generate a new one each time you authorize!"
+msgstr "使用下方紅色連結以產生並取得授權碼！請注意，每次進行授權都必須產生並使用新的授權碼！"
+
+#: admin/settings.php:315
+msgid "enable Real-Time report (requires access to Real-Time Reporting API)"
+msgstr "啟用即時報告 (須要存取 Google Real-Time Reporting API)"
+
+#: admin/settings.php:1173
+msgid "Count: "
+msgstr "計數: "
+
+#: admin/settings.php:1177
+msgid "GAPI Error: "
+msgstr "GAPI 錯誤: "
+
+#: admin/settings.php:1434
+msgid "Report & Reset Errors"
+msgstr "報告及重設錯誤"
+
+#: admin/settings.php:875
+msgid "enable Force SSL"
+msgstr "啟用強制 SSL 連線"
+
+#: admin/settings.php:961
+msgid "enable Google AMP Client Id API"
+msgstr "啟用 Google AMP Client ID API"
+
+#: admin/settings.php:863
+msgid "use hitCallback to increase event tracking accuracy"
+msgstr "使用 hitCallback 以增加事件追蹤精確度"
+
+#: admin/settings.php:839
+msgid "exclude events from bounce-rate and time on page calculation"
+msgstr "排除會計算跳出率及網頁停留時間的事件"
+
+#: tools/tools.php:203
+msgid "DOM is disabled or libxml PHP extension is missing. Contact your hosting provider. Automatic tracking of events for AMP pages is not possible."
+msgstr "已停用 DOM 或遺失 libxml PHP 擴充模組，請洽詢你的主機服務提供商。無法自動追蹤 AMP 頁面事件。"
+
+#: admin/settings.php:764
+msgid "Speed Sample Rate:"
+msgstr "速度取樣率:"
+
+#: admin/settings.php:774
+msgid "User Sample Rate:"
+msgstr "使用者取樣率:"
+
+#: front/setup.php:101 admin/setup.php:211 admin/setup.php:312
+msgid "No Data"
+msgstr "沒有資料"
+
+#: front/tracking.php:33
+msgid "This method is deprecated, read the documentation!"
+msgstr "不推薦使用這個方法，請閱讀說明文件！"
+
+#. translators: %s: version number
+#: tools/tools.php:183
+msgid "This message was added in version %s."
+msgstr "已在 %s 版中加入這項訊息。"
+
+#. translators: Developer debugging message. 1: PHP function name, 2:
+#. Explanatory message, 3: Version information message
+#: tools/tools.php:187
+msgid "%1$s was called <strong>incorrectly</strong>. %2$s %3$s"
+msgstr "呼叫 %1$s 函數的方法<strong>不正確</strong>。%2$s %3$s"
+
+#: admin/settings.php:423 admin/settings.php:425
+msgid "Integration"
+msgstr "整合"
+
+#: admin/settings.php:425
+msgid "DataLayer Variables"
+msgstr "資料層變數"
+
+#: admin/settings.php:474
+msgid "Web Container ID:"
+msgstr "網頁容器 ID:"
+
+#: admin/settings.php:484 admin/settings.php:581
+msgid "Code Placement:"
+msgstr "追蹤碼放置位置:"
+
+#: admin/settings.php:489 admin/settings.php:586
+msgid "HTML Head"
+msgstr "HTML 標頭"
+
+#: admin/settings.php:490 admin/settings.php:587
+msgid "HTML Body"
+msgstr "HTML 內文"
+
+#: admin/settings.php:510
+msgid "track downloads, mailto, telephone and outbound links"
+msgstr "追蹤下載、回覆電子郵件、電話撥打及出站連結"
+
+#: admin/settings.php:522
+msgid "track affiliate links"
+msgstr "追蹤聯盟連結"
+
+#: admin/settings.php:546
+msgid "track form submit actions"
+msgstr "追蹤表單提交動作"
+
+#: admin/settings.php:558
+msgid "track page scrolling depth"
+msgstr "追蹤網頁捲動深度"
+
+#: admin/settings.php:596
+msgid "Custom Dimensions"
+msgstr "自訂維度"
+
+#: admin/settings.php:681
+msgid "Main Variables"
+msgstr "主要變數"
+
+#: admin/settings.php:930
+msgid "seconds"
+msgstr "秒"
+
+#: admin/settings.php:938 admin/settings.php:1052
+msgid "Accelerated Mobile Pages (AMP)"
+msgstr "Accelerated Mobile Pages (AMP)"
+
+#: admin/settings.php:949 admin/settings.php:1063
+msgid "enable tracking for Accelerated Mobile Pages (AMP)"
+msgstr "為 Accelerated Mobile Pages (AMP) 啟用追蹤"
+
+#: admin/settings.php:965
+msgid "Ecommerce"
+msgstr "電子商務"
+
+#: admin/settings.php:969
+msgid "Ecommerce Tracking:"
+msgstr "電子商務追蹤:"
+
+#: admin/settings.php:975
+msgid "Ecommerce Plugin"
+msgstr "電子商務外掛"
+
+#: admin/settings.php:976
+msgid "Enhanced Ecommerce Plugin"
+msgstr "加強型電子商務外掛"
+
+#: admin/settings.php:981
+msgid "Optimize"
+msgstr "Google 最佳化工具"
+
+#: admin/settings.php:992
+msgid "enable Optimize tracking"
+msgstr "啟用 [最佳化工具] 追蹤"
+
+#: admin/settings.php:1004
+msgid "enable Page Hiding support"
+msgstr "啟用 [頁面隱藏] 支援"
+
+#: admin/settings.php:1009
+msgid "Container ID:"
+msgstr "容器 ID:"
+
+#: admin/settings.php:1068
+msgid "AMP Container ID:"
+msgstr "AMP 容器 ID:"
+
+#: admin/settings.php:1176
+msgid "Last Error: "
+msgstr "最後檢測到的錯誤: "
+
+#: admin/settings.php:1184
+msgid "Sampled Data"
+msgstr "取樣資料"
+
+#: admin/settings.php:1191
+msgid "Last Detected on %s."
+msgstr "最後偵測到錯誤的時間為 %s。"
+
+#: admin/settings.php:1193
+msgid "The report was based on %s of sessions."
+msgstr "這份報告基於工作階段的 %s 所得出。"
+
+#: admin/settings.php:1195
+msgid "Sessions ratio: %s."
+msgstr "工作階段比率: %s。"
+
+#. Plugin Name of the plugin
+msgid "Google Analytics Dashboard for WP (GADWP)"
+msgstr "Google Analytics Dashboard for WP (GADWP)"
+
+#: front/setup.php:118
+msgid "Precision: "
+msgstr "準確性: "
+
+#: admin/settings.php:446
+msgid "Tag Manager"
+msgstr "Google 代碼管理工具"
+
+#: admin/settings.php:1405 admin/settings.php:1758
+msgid "developer mode (requires advanced API knowledge)"
+msgstr "開發者模式<br/>需要進階的 API 知識才能完成 [開發者模式] 所需要的設定。如無特殊需要，<strong>不須</strong>啟用 [開發者模式] 進行設定，直接點擊 [授權外掛] 按鈕便可開始進行外掛授權。"
+
+#: front/setup.php:115 admin/setup.php:225 admin/setup.php:326
+msgid "Time on Page"
+msgstr "網頁停留時間"
+
+#: front/setup.php:116 admin/setup.php:226 admin/setup.php:327
+msgid "Page Load Time"
+msgstr "網頁載入時間"
+
+#: admin/setup.php:227
+msgid "Session Duration"
+msgstr "工作階段時間長度"
+
+#: front/setup.php:117 admin/setup.php:328
+msgid "Exit Rate"
+msgstr "離開百分比"
+
+#: front/setup.php:109 front/setup.php:110 front/setup.php:111
+#: front/setup.php:112 front/setup.php:113 front/setup.php:114
+#: admin/setup.php:320 admin/setup.php:321 admin/setup.php:322
+#: admin/setup.php:323 admin/setup.php:324 admin/setup.php:325
+msgid "Future Use"
+msgstr "日後使用"
+
+#: admin/settings.php:336
+msgid "Maps API Key:"
+msgstr "Maps API 金鑰:"
+
+#: admin/settings.php:342
+msgid "404 Errors Report"
+msgstr "404 錯誤報告"
+
+#: admin/settings.php:346
+msgid "404 Page Title contains:"
+msgstr "404 頁面標題包含的文字:"
+
+#: admin/settings.php:626 admin/settings.php:709
+msgid "Publication Month:"
+msgstr "發佈月份:"
+
+#: tools/gapi.php:579 admin/setup.php:196
+msgid "404 Errors"
+msgstr "404 錯誤"
+
+#: tools/gapi.php:583
+msgid "URI:"
+msgstr "URI:"
+
+#: tools/gapi.php:583
+msgid "Source:"
+msgstr "來源:"
+
+#: admin/settings.php:665 admin/settings.php:745
+msgid "Tags:"
+msgstr "標籤:"
+
+#: front/setup.php:100 admin/setup.php:210 admin/setup.php:311
+msgid "Invalid response"
+msgstr "無效的回應"
+
+#: front/setup.php:85 admin/setup.php:194 admin/setup.php:296
+msgid "Traffic"
+msgstr "流量"
+
+#: front/setup.php:86 admin/setup.php:195 admin/setup.php:297
+msgid "Technology"
+msgstr "技術"
+
+#: front/setup.php:105 admin/setup.php:215 admin/setup.php:316
+msgid "Browser"
+msgstr "瀏覽器"
+
+#: front/setup.php:106 admin/setup.php:216 admin/setup.php:317
+msgid "Operating System"
+msgstr "作業系統"
+
+#: front/setup.php:107 admin/setup.php:217 admin/setup.php:318
+msgid "Screen Resolution"
+msgstr "螢幕解析度"
+
+#: front/setup.php:108 admin/setup.php:218 admin/setup.php:319
+msgid "Mobile Brand"
+msgstr "行動裝置品牌"
+
+#: tools/gapi.php:745
+msgid "Devices"
+msgstr "裝置"
+
+#: tools/gapi.php:808
+msgid "Other"
+msgstr "其他"
+
+#: tools/gapi.php:470 tools/gapi.php:845
+msgid "l, F j, Y"
+msgstr "Y 年 n 月 j 日l"
+
+#: admin/settings.php:879
+msgid "Cross-domain Tracking"
+msgstr "跨網域追蹤"
+
+#: admin/settings.php:903
+msgid "Cookie Customization"
+msgstr "Cookie 自訂程式碼"
+
+#: admin/settings.php:907
+msgid "Cookie Domain:"
+msgstr "Cookie 網域:"
+
+#: admin/settings.php:916
+msgid "Cookie Name:"
+msgstr "Cookie 名稱:"
+
+#: admin/settings.php:925
+msgid "Cookie Expires:"
+msgstr "Cookie 有效期限:"
+
+#: tools/gapi.php:461
+msgid "F, Y"
+msgstr "Y 年 n 月"
+
+#: admin/setup.php:164
+msgid "Real-Time"
+msgstr "即時"
+
+#: front/setup.php:69 front/setup.php:70 front/setup.php:71 front/setup.php:72
+#: front/widgets.php:68 front/widgets.php:71 front/widgets.php:74
+#: front/widgets.php:174 front/widgets.php:175 front/widgets.php:176
+#: admin/setup.php:167 admin/setup.php:168 admin/setup.php:169
+#: admin/setup.php:170 admin/setup.php:280 admin/setup.php:281
+#: admin/setup.php:282 admin/setup.php:283
+msgid "Last %d Days"
+msgstr "最近 %d 天"
+
+#: front/setup.php:73 front/setup.php:74 admin/setup.php:171
+#: admin/setup.php:172 admin/setup.php:284 admin/setup.php:285
+msgid "%s Year"
+msgid_plural "%s Years"
+msgstr[0] "最近 %s 年"
+
+#: front/setup.php:73 admin/setup.php:171 admin/setup.php:284
+msgid "One"
+msgstr "1"
+
+#: front/setup.php:74 admin/setup.php:172 admin/setup.php:285
+msgid "Three"
+msgstr "3"
+
+#: front/widgets.php:40 tools/gapi.php:423 tools/gapi.php:836
+#: admin/setup.php:185 admin/setup.php:204
+msgid "Sessions"
+msgstr "工作階段"
+
+#: front/setup.php:78 front/setup.php:95 tools/gapi.php:408 admin/setup.php:186
+#: admin/setup.php:205 admin/setup.php:289 admin/setup.php:306
+msgid "Users"
+msgstr "使用者"
+
+#: front/setup.php:79 admin/setup.php:187 admin/setup.php:290
+msgid "Organic"
+msgstr "隨機搜尋"
+
+#: front/setup.php:80 front/setup.php:96 tools/gapi.php:411 admin/setup.php:188
+#: admin/setup.php:206 admin/setup.php:291 admin/setup.php:307
+msgid "Page Views"
+msgstr "瀏覽量"
+
+#: front/setup.php:81 front/setup.php:97 tools/gapi.php:414 admin/setup.php:189
+#: admin/setup.php:207 admin/setup.php:292 admin/setup.php:308
+msgid "Bounce Rate"
+msgstr "跳出率"
+
+#: front/setup.php:82 admin/setup.php:190 admin/setup.php:293
+msgid "Location"
+msgstr "地區"
+
+#: tools/gapi.php:551 admin/setup.php:191
+msgid "Pages"
+msgstr "網頁"
+
+#: front/setup.php:83 tools/gapi.php:615 admin/setup.php:192
+#: admin/setup.php:294
+msgid "Referrers"
+msgstr "推薦連結"
+
+#: front/setup.php:84 tools/gapi.php:650 admin/setup.php:193
+#: admin/setup.php:295
+msgid "Searches"
+msgstr "搜尋範圍"
+
+#: front/setup.php:89 admin/setup.php:199 admin/setup.php:300
+msgid "A JavaScript Error is blocking plugin resources!"
+msgstr "因 JavaScript 錯誤導致外掛資源遭到封鎖！"
+
+#: front/setup.php:90 admin/setup.php:200 admin/setup.php:301
+msgid "Traffic Mediums"
+msgstr "流量媒介"
+
+#: front/setup.php:91 admin/setup.php:201 admin/setup.php:302
+msgid "Visitor Type"
+msgstr "訪客類型"
+
+#: front/setup.php:92 admin/setup.php:202 admin/setup.php:304
+msgid "Search Engines"
+msgstr "搜尋引擎"
+
+#: front/setup.php:93 admin/setup.php:203 admin/setup.php:303
+msgid "Social Networks"
+msgstr "社交網路"
+
+#: front/setup.php:98 admin/setup.php:208 admin/setup.php:309
+msgid "Organic Search"
+msgstr "隨機搜尋"
+
+#: front/setup.php:99 admin/setup.php:209 admin/setup.php:310
+msgid "Pages/Session"
+msgstr "單次工作階段頁數"
+
+#: front/setup.php:102 front/widgets.php:107 admin/setup.php:212
+#: admin/setup.php:313
+msgid "This report is unavailable"
+msgstr "這份報告無法使用"
+
+#: admin/setup.php:219
+msgid "REFERRALS"
+msgstr "參照連結網址"
+
+#: admin/setup.php:220
+msgid "KEYWORDS"
+msgstr "關鍵字"
+
+#: admin/setup.php:221
+msgid "SOCIAL"
+msgstr "社交"
+
+#: admin/setup.php:222
+msgid "CAMPAIGN"
+msgstr "廣告活動"
+
+#: admin/setup.php:223
+msgid "DIRECT"
+msgstr "直接"
+
+#: admin/setup.php:224
+msgid "NEW"
+msgstr "新訪客"
+
+#: front/setup.php:77 front/setup.php:94 admin/setup.php:288
+#: admin/setup.php:305
+msgid "Unique Views"
+msgstr "不重複瀏覽量"
+
+#: admin/setup.php:363
+msgid "Settings"
+msgstr "設定"
+
+#: admin/views/access-code.php:14
+msgid "Get Access Code"
+msgstr "取得授權碼"
+
+#: admin/views/access-code.php:19
+msgid "Access Code:"
+msgstr "授權碼:"
+
+#: admin/views/access-code.php:32
+msgid "Save Access Code"
+msgstr "儲存授權碼"
+
+#: front/widgets.php:131
+msgid "Sessions:"
+msgstr "工作階段:"
+
+#: tools/gapi.php:417
+msgid "Organic Searches"
+msgstr "隨機搜尋"
+
+#: tools/gapi.php:420
+msgid "Unique Page Views"
+msgstr "不重複瀏覽量"
+
+#: tools/gapi.php:428
+msgid "Hour"
+msgstr "小時"
+
+#: tools/gapi.php:431 tools/gapi.php:434 tools/gapi.php:836
+msgid "Date"
+msgstr "日期"
+
+#: tools/gapi.php:673
+msgid "Countries"
+msgstr "國家"
+
+#: tools/gapi.php:683
+msgid "Cities from"
+msgstr "下列城市所屬國家/地區為"
+
+#: tools/gapi.php:745
+msgid "Channels"
+msgstr "管道"
+
+#: front/setup.php:103 admin/setup.php:213 admin/setup.php:314
+msgid "report generated by"
+msgstr "製表外掛為"
+
+#: front/setup.php:104 admin/setup.php:214 admin/setup.php:315
+#: admin/widgets.php:35
+msgid "This plugin needs an authorization:"
+msgstr "這個外掛需要進行授權:"
+
+#: admin/widgets.php:43 admin/widgets.php:50
+msgid "Select Domain"
+msgstr "選取網域"
+
+#: admin/widgets.php:56
+msgid "Find out more!"
+msgstr "了解更多！"
+
+#: front/widgets.php:131
+msgid "Period:"
+msgstr "統計週期:"
+
+#: front/widgets.php:137
+msgid "generated by"
+msgstr "製表外掛為"
+
+#: front/widgets.php:160
+msgid "Title:"
+msgstr "標題:"
+
+#: front/widgets.php:163
+msgid "Display:"
+msgstr "顯示方式:"
+
+#: front/widgets.php:164
+msgid "Chart & Totals"
+msgstr "圖表及總計"
+
+#: front/widgets.php:165
+msgid "Chart"
+msgstr "圖表"
+
+#: front/widgets.php:166
+msgid "Totals"
+msgstr "總計"
+
+#: front/widgets.php:170
+msgid "Anonymize stats:"
+msgstr "匿名處理統計資料:"
+
+#: front/widgets.php:173
+msgid "Stats for:"
+msgstr "統計資料範圍:"
+
+#: front/widgets.php:180
+msgid "Give credits:"
+msgstr "顯示外掛名稱:"
+
+#: gadwp.php:62 gadwp.php:70 gadwp.php:77
+msgid "This is not allowed, read the documentation!"
+msgstr "並未授權這項操作，請閱讀說明文件！"
+
+#: tools/gapi.php:793
+msgid "Type"
+msgstr "類型"
+
+#: front/widgets.php:21 admin/widgets.php:28
+msgid "Google Analytics Dashboard"
+msgstr "Google Analytics 資訊主頁"
+
+#: admin/widgets.php:43 admin/widgets.php:50
+msgid "An admin should asign a default Google Analytics Profile."
+msgstr "管理員應該指定一組預設的 Google Analytics 設定檔。"
+
+#: admin/widgets.php:56
+msgid "Something went wrong while retrieving property data. You need to create and properly configure a Google Analytics account:"
+msgstr "接收資源資料時發生錯誤。你需要建立一個 Google Analytics 帳戶並加以正確設定:"
+
+#: front/widgets.php:21
+msgid "Will display your google analytics stats in a widget"
+msgstr "這個小工具中會顯示這個網站的 Google Analytics 統計資料"
+
+#: front/widgets.php:152
+msgid "Google Analytics Stats"
+msgstr "Google Analytics 統計資料"
+
+#. Description of the plugin
+msgid "Displays Google Analytics Reports and Real-Time Statistics in your Dashboard. Automatically inserts the tracking code in every page of your website."
+msgstr "這個外掛會自動在網站上的每個頁面插入 GA 追蹤碼，並在控制台顯示 Google Analytics 報告統計資料及即時統計資料。"
+
+#: front/item-reports.php:30 admin/settings.php:445 admin/item-reports.php:53
+msgid "Analytics"
+msgstr "GA"
+
+#: admin/settings.php:112 admin/settings.php:207 admin/settings.php:404
+#: admin/settings.php:1350 admin/settings.php:1682
+msgid "Settings saved."
+msgstr "設定已儲存。"
+
+#: admin/setup.php:47 admin/setup.php:70 admin/settings.php:118
+#: admin/settings.php:213 admin/settings.php:410 admin/settings.php:1149
+#: admin/settings.php:1376 admin/settings.php:1708
+msgid "Errors & Debug"
+msgstr "錯誤及偵錯"
+
+#: front/setup.php:104 admin/setup.php:214 admin/setup.php:315
+#: admin/settings.php:118 admin/settings.php:213 admin/settings.php:410
+#: admin/settings.php:1149 admin/settings.php:1376 admin/settings.php:1708
+msgid "authorize the plugin"
+msgstr "授權這個外掛"
+
+#: admin/settings.php:133 admin/settings.php:228
+msgid "Permissions"
+msgstr "資料檢視權限"
+
+#: admin/settings.php:137 admin/settings.php:232
+msgid "Show stats to:"
+msgstr "可檢視的角色:"
+
+#: admin/settings.php:173
+msgid "enable web page reports on frontend"
+msgstr "在前端啟用網頁報告"
+
+#: admin/settings.php:183 admin/settings.php:379 admin/settings.php:1120
+#: admin/settings.php:1534 admin/settings.php:1896
+msgid "Save Changes"
+msgstr "儲存更新"
+
+#: admin/settings.php:274
+msgid "enable Switch View functionality"
+msgstr "啟用切換資料檢視功能"
+
+#: admin/settings.php:286
+msgid "enable reports on Posts List and Pages List"
+msgstr "在文章列表及頁面列表中啟用報告"
+
+#: admin/settings.php:298
+msgid "enable the main Dashboard Widget"
+msgstr "啟用 [資訊主頁] 小工具"
+
+#: admin/settings.php:303
+msgid "Real-Time Settings"
+msgstr "[即時] 報表設定"
+
+#: admin/settings.php:320
+msgid "Maximum number of pages to display on real-time tab:"
+msgstr "在 [即時] 報表標籤頁顯示的網頁數量上限:"
+
+#: admin/settings.php:326
+msgid "Location Settings"
+msgstr "地區設定"
+
+#: admin/settings.php:330
+msgid "Target Geo Map to country:"
+msgstr "將地理區域定位至國家/地區:"
+
+#: admin/settings.php:423 admin/settings.php:425 admin/settings.php:427
+msgid "Basic Settings"
+msgstr "基本設定"
+
+#: admin/settings.php:423 admin/settings.php:499
+msgid "Events Tracking"
+msgstr "事件追蹤"
+
+#: admin/settings.php:423
+msgid "Custom Definitions"
+msgstr "自訂維度"
+
+#: admin/settings.php:423 admin/settings.php:425 admin/settings.php:1080
+#: admin/settings.php:1855
+msgid "Exclude Tracking"
+msgstr "排除追蹤"
+
+#: admin/settings.php:423 admin/settings.php:425
+msgid "Advanced Settings"
+msgstr "進階設定"
+
+#: admin/settings.php:436
+msgid "Tracking Settings"
+msgstr "追蹤設定"
+
+#: admin/settings.php:440
+msgid "Tracking Type:"
+msgstr "追蹤類型:"
+
+#: admin/settings.php:447 admin/settings.php:691 admin/settings.php:703
+#: admin/settings.php:715 admin/settings.php:727 admin/settings.php:739
+#: admin/settings.php:751 admin/settings.php:974
+msgid "Disabled"
+msgstr "停用"
+
+#: admin/settings.php:456 admin/settings.php:1454 admin/settings.php:1473
+#: admin/settings.php:1816
+msgid "View Name:"
+msgstr "資料檢視名稱:"
+
+#: admin/settings.php:456 admin/settings.php:1473
+msgid "Tracking ID:"
+msgstr "追蹤 ID:"
+
+#: admin/settings.php:456 admin/settings.php:1473
+msgid "Default URL:"
+msgstr "預設網址:"
+
+#: admin/settings.php:456 admin/settings.php:1473
+msgid "Time Zone:"
+msgstr "時區:"
+
+#: admin/settings.php:534
+msgid "track fragment identifiers, hashmarks (#) in URI links"
+msgstr "追蹤在 URI 連結中的片段識別項及井號 (#)"
+
+#: admin/settings.php:563
+msgid "Downloads Regex:"
+msgstr "下載規則運算式:"
+
+#: admin/settings.php:572
+msgid "Affiliates Regex:"
+msgstr "聯盟規則運算式:"
+
+#: admin/settings.php:600 admin/settings.php:685
+msgid "Authors:"
+msgstr "作者:"
+
+#: admin/settings.php:613 admin/settings.php:697
+msgid "Publication Year:"
+msgstr "發佈年份:"
+
+#: admin/settings.php:639 admin/settings.php:721
+msgid "Categories:"
+msgstr "分類:"
+
+#: admin/settings.php:652 admin/settings.php:733
+msgid "User Type:"
+msgstr "使用者類型:"
+
+#: admin/settings.php:760 admin/settings.php:1021
+msgid "Advanced Tracking"
+msgstr "進階追蹤"
+
+#: admin/settings.php:791
+msgid "anonymize IPs while tracking"
+msgstr "追蹤時匿名處理 IP 位址"
+
+#: admin/settings.php:827
+msgid "enable remarketing, demographics and interests reports"
+msgstr "啟用 [再行銷] 及 [客層和興趣] 報告"
+
+#: admin/settings.php:851
+msgid "enable enhanced link attribution"
+msgstr "啟用加強型連結歸屬"
+
+#: admin/settings.php:890
+msgid "enable cross domain tracking"
+msgstr "啟用跨網域追蹤"
+
+#: admin/settings.php:895
+msgid "Cross Domains:"
+msgstr "其他網域:"
+
+#: admin/settings.php:1084
+msgid "Exclude tracking for:"
+msgstr "排除追蹤的角色:"
+
+#: admin/settings.php:1161
+msgid "Errors & Details"
+msgstr "錯誤及其詳細資料"
+
+#: admin/settings.php:1161
+msgid "Plugin Settings"
+msgstr "外掛設定"
+
+#: admin/settings.php:1197
+msgid "None"
+msgstr "無"
+
+#: admin/settings.php:1167
+msgid "Error Details"
+msgstr "錯誤詳細資料"
+
+#: admin/settings.php:1206
+msgid "Plugin Configuration"
+msgstr "外掛組態"
+
+#: admin/settings.php:1259 admin/settings.php:1595
+msgid "Plugin authorization succeeded."
+msgstr "外掛授權成功。"
+
+#: admin/settings.php:1294 admin/settings.php:1666
+msgid "Cleared Cache."
+msgstr "清除快取。"
+
+#: admin/settings.php:1344
+msgid "All errors reseted."
+msgstr "所有錯誤已重設。"
+
+#: admin/settings.php:1394 admin/settings.php:1748
+msgid "Plugin Authorization"
+msgstr "外掛授權"
+
+#: admin/settings.php:1412 admin/settings.php:1765
+msgid "Client ID:"
+msgstr "用戶端 ID:"
+
+#: admin/settings.php:1420 admin/settings.php:1774
+msgid "Client Secret:"
+msgstr "用戶端密碼:"
+
+#: admin/settings.php:1432 admin/settings.php:1787
+msgid "Clear Authorization"
+msgstr "清除授權"
+
+#: admin/settings.php:1433 admin/settings.php:1546 admin/settings.php:1788
+#: admin/settings.php:1908
+msgid "Clear Cache"
+msgstr "清除快取"
+
+#: admin/setup.php:43 admin/setup.php:69 admin/settings.php:1443
+msgid "General Settings"
+msgstr "一般設定"
+
+#: admin/settings.php:1447
+msgid "Select View:"
+msgstr "選取資料檢視:"
+
+#: admin/settings.php:1460 admin/settings.php:1823
+msgid "Property not found"
+msgstr "找不到資源"
+
+#: admin/settings.php:1464
+msgid "Lock Selection"
+msgstr "鎖定選取項目"
+
+#: admin/settings.php:1479
+msgid "Theme Color:"
+msgstr "主題色彩:"
+
+#: admin/settings.php:1492 admin/settings.php:1833
+msgid "Automatic Updates"
+msgstr "自動更新"
+
+#: admin/settings.php:1503 admin/settings.php:1845
+msgid "automatic updates for minor versions (security and maintenance releases only)"
+msgstr "為次要版本進行自動更新 (僅限安全性及維護版本)"
+
+#: admin/settings.php:1545 admin/settings.php:1907 admin/widgets.php:35
+msgid "Authorize Plugin"
+msgstr "授權外掛"
+
+#: admin/settings.php:1942
+msgid "Setup Tutorial & Demo"
+msgstr "設定教學課程及示範"
+
+#: admin/settings.php:1971
+msgid "Your feedback and review are both important, %s!"
+msgstr "你的意見反應及評論相當重要，%s！"
+
+#: admin/settings.php:1971
+msgid "rate this plugin"
+msgstr "請為這個外掛評分"
+
+#: admin/settings.php:1950
+msgid "Further Reading"
+msgstr "進階閱讀"
+
+#: admin/setup.php:44
+msgid "Backend Settings"
+msgstr "後端設定"
+
+#: admin/setup.php:45
+msgid "Frontend Settings"
+msgstr "前端設定"
+
+#: admin/setup.php:46
+msgid "Tracking Code"
+msgstr "追蹤碼"
+
+#: front/setup.php:67 admin/setup.php:165 admin/setup.php:278
+msgid "Today"
+msgstr "今天"
+
+#: front/setup.php:68 admin/setup.php:166 admin/setup.php:279
+msgid "Yesterday"
+msgstr "昨天"
+
+#: admin/settings.php:118 admin/settings.php:213 admin/settings.php:410
+#: admin/settings.php:1149 admin/settings.php:1376 admin/settings.php:1708
+msgid "Something went wrong, check %1$s or %2$s."
+msgstr "有問題發生，請查閱%1$s或%2$s。"
+
+#: admin/settings.php:1242 admin/settings.php:1578
+msgid "Loading the required libraries. If this results in a blank screen or a fatal error, try this solution:"
+msgstr "必要的程式庫正在進行載入。如果這導致空白畫面或嚴重錯誤，請嘗試這項解決方案:"
+
+#: admin/settings.php:1242
+msgid "Library conflicts between WordPress plugins"
+msgstr "WordPress 外掛間的程式庫產生衝突"
+
+#: admin/settings.php:1303 admin/settings.php:1675
+msgid "Token Reseted and Revoked."
+msgstr "重設並撤銷憑證。"
+
+#: admin/settings.php:1357 admin/settings.php:1689
+msgid "All other domains/properties were removed."
+msgstr "所有其他網域/資源已移除。"
+
+#: admin/settings.php:1641
+msgid "Properties refreshed."
+msgstr "資源已重新整理。"
+
+#: admin/settings.php:1726
+msgid "Network Setup"
+msgstr "網誌網路設定"
+
+#: admin/settings.php:1789
+msgid "Refresh Properties"
+msgstr "重新整理資源"
+
+#: admin/settings.php:1799
+msgid "Properties/Views Settings"
+msgstr "資源/資料檢視設定"
+
+#: admin/settings.php:1866
+msgid "exclude Super Admin tracking for the entire network"
+msgstr "為整個網誌網路排除追蹤超級管理員"
+
+#: admin/settings.php:123
+msgid "Google Analytics Frontend Settings"
+msgstr "Google Analytics 前端設定"
+
+#: admin/settings.php:218
+msgid "Google Analytics Backend Settings"
+msgstr "Google Analytics 後端設定"
+
+#: admin/settings.php:415
+msgid "Google Analytics Tracking Code"
+msgstr "Google Analytics 追蹤碼"
+
+#: admin/settings.php:1153
+msgid "Google Analytics Errors & Debugging"
+msgstr "Google Analytics 錯誤及偵錯"
+
+#: admin/settings.php:1367 admin/settings.php:1699
+msgid "Google Analytics Settings"
+msgstr "Google Analytics 設定"
+
+#: admin/settings.php:1738
+msgid "use a single Google Analytics account for the entire network"
+msgstr "在整個網誌網路中使用單一 Google Analytics 帳戶"
+
+#: admin/setup.php:42 admin/setup.php:68
+msgid "Google Analytics"
+msgstr "Google Analytics"

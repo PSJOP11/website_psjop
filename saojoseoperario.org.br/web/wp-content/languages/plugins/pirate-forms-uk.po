@@ -1,0 +1,671 @@
+# Translation of Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk) in Ukrainian
+# This file is distributed under the same license as the Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-22 09:06:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk)\n"
+
+#: includes/class-pirateforms-widget.php:118
+msgid "Submit form using Ajax:"
+msgstr "Відправити форму використовуючи Ajax:"
+
+#: admin/class-pirateforms-admin.php:1246
+msgid "Unable to delete post(s) %s"
+msgstr "Неможливо видалити запис(и) %s"
+
+#: admin/class-pirateforms-admin.php:772
+msgid "Please select the checkbox"
+msgstr "Будь ласка, відмітьте чекбокс"
+
+#: admin/class-pirateforms-admin.php:770
+msgid "Checkbox is not checked"
+msgstr "Чекбокс не відмічений"
+
+#: admin/class-pirateforms-admin.php:523 admin/class-pirateforms-admin.php:662
+msgid "Checkbox"
+msgstr "Чекбокс"
+
+#: admin/class-pirateforms-admin.php:320
+msgid "According to GDPR, we recommend you to ask for consent in order to store user data."
+msgstr "Згідно з GDPR, ми радимо вам попросити згоди, щоб зберігати дані користувача."
+
+#: admin/class-pirateforms-admin.php:309 admin/class-pirateforms-admin.php:1109
+msgid "According to GDPR we recommend you to ask for consent in order to store user data"
+msgstr "Згідно з GDPR, ми рекомендуємо вам попросити згоди, щоб зберігати дані користувача"
+
+#: public/class-pirateforms-public.php:737
+msgid "Form submission failed!!"
+msgstr "Невдала відправка форми!"
+
+#: admin/class-pirateforms-admin.php:367
+msgid "Should a copy of the email be appended to the confirmation email? Only the fields that are being displayed will be sent to the sender. Please note that this will only be appended if confirmation email text is provided above."
+msgstr "Чи слід додати копію цього листа до листа з підтвердженням? Тільки поля, які відображаються, будуть відправлені відправнику. Зверніть увагу, що це буде додано лише якщо текст повідомлення підтвердження надано вище."
+
+#: admin/class-pirateforms-admin.php:364
+msgid "Add copy of mail to confirmation email"
+msgstr "Додайте копію листа до листа-підтвердження"
+
+#: admin/class-pirateforms-admin.php:681
+msgid "You can use the next magic tags:"
+msgstr "Ви можете використовувати наступні магічні позначки:"
+
+#: admin/class-pirateforms-admin.php:680 admin/class-pirateforms-admin.php:1179
+msgid "Email content"
+msgstr "Вміст емейлу"
+
+#: public/class-pirateforms-public.php:992
+msgid "Incorrect CAPTCHA"
+msgstr "Неправильна CAPTCHA"
+
+#: public/class-pirateforms-public.php:980
+msgid "Invalid CAPTCHA"
+msgstr "Невірна CAPTCHA"
+
+#: admin/class-pirateforms-admin.php:79
+msgid "Please specify the Site Key and Secret Key."
+msgstr "Будь ласка, вкажіть ключ сайту та секретний ключ."
+
+#: public/class-pirateforms-public.php:1133
+msgid "Uploaded file type is not allowed for %s"
+msgstr "Завантажений тип файлу заборонено для %s"
+
+#: public/class-pirateforms-public.php:1001
+msgid "Submission blocked!"
+msgstr "Надсилання заблоковане!"
+
+#: includes/class-pirateforms-util.php:258
+#: includes/class-pirateforms-util.php:299
+#: public/class-pirateforms-public.php:717
+#: public/class-pirateforms-public.php:720
+msgid "Came from"
+msgstr "Прийшло з "
+
+#: public/class-pirateforms-public.php:151
+msgid "I'm human!"
+msgstr "Я людина!"
+
+#: includes/class-pirateforms-html.php:199
+msgid "Upload file"
+msgstr "Завантажити файл"
+
+#: admin/class-pirateforms-admin.php:552
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: admin/class-pirateforms-admin.php:551
+msgid "Custom"
+msgstr "Користувацький"
+
+#: admin/class-pirateforms-admin.php:541
+msgid "Add a spam trap"
+msgstr "Додати спам-ловушку"
+
+#: admin/class-pirateforms-admin.php:404
+msgid "Checking this option will verify the content of the message with Akismet to check if it's spam. If it is determined to be spam, the message will be blocked. %s"
+msgstr "Обираючи цей параметр, вміст повідомлення буде перевірено за допомогою Akismet, щоб щоб переконатися, що це не спам. Якщо це визначено як спам, повідомлення буде заблоковано. %s"
+
+#: admin/class-pirateforms-admin.php:401
+msgid "Integrate with Akismet?"
+msgstr "Інтегрувати з Akismet?"
+
+#: admin/class-pirateforms-admin.php:253
+msgid "To use this option, please ensure Akismet is activated with a valid key."
+msgstr "Щоб використовувати цей параметр, будь ласка, переконайтесь, що Akismet активовано за допомогою дійсного ключа."
+
+#: includes/class-pirateforms.php:266
+msgid "No entries found."
+msgstr "Записів не знайдено."
+
+#: includes/class-pirateforms.php:265
+msgid "Parent Entries:"
+msgstr "Батьківські записи:"
+
+#: includes/class-pirateforms.php:264
+msgid "Search Entries"
+msgstr "Пошук записів"
+
+#: includes/class-pirateforms.php:263
+msgid "All Entries"
+msgstr "Всі записи"
+
+#: includes/class-pirateforms.php:262
+msgid "View Entry"
+msgstr "Переглянути запис"
+
+#: includes/class-pirateforms.php:261
+msgid "Edit Entry"
+msgstr "Редагувати запис"
+
+#: includes/class-pirateforms.php:259
+msgctxt "admin menu"
+msgid "Entries"
+msgstr "Записи"
+
+#: includes/class-pirateforms-widget.php:122
+msgid "Need more forms ? Check our <a href=\"%s\" target=\"_blank\">extended</a> version for more features"
+msgstr "Вам потрібні інші форми? Перевірте нашу <a href=\"%s\" target=\"_blank\">розширену</a> версію для отримання додаткових функцій"
+
+#: admin/partials/pirateforms-settings-display.php:138
+msgid "Send Test Email"
+msgstr "Відправити тестове повідомлення"
+
+#: admin/partials/pirateforms-settings-display.php:71
+msgid "If you are using the default (non-SMTP) configuration which uses the WP/PHP mail, mails might either land in the spam/junk folders or they might get lost. So, you might not receive the email even if the status against an entry reads the mail has been sent successfully. If you face this, please contact your system administrator. If you continue to face this problem, you can switch to the SMTP configuration to ensure email deliverability."
+msgstr "Якщо ви користуєтесь конфігурацією за умовчанням (не SMTP), яка використовує пошту WP/PHP, пошти можуть припадати до папок спам/небажані або вони можуть втратитись. Тому, можливо, ви не отримаєте електронний лист, навіть якщо статус запису покаже, що повідомлення успішно надіслано. Якщо ви зіткнулися з цим, зв'яжіться зі своїм системним адміністратором. Якщо ви продовжуєте стикатися з цією проблемою, ви можете переключитися на конфігурацію SMTP, щоб забезпечити доставку електронної пошти."
+
+#: admin/class-pirateforms-admin.php:1131
+msgid "Sent email failed!"
+msgstr "Не вдалося надіслати емейл!"
+
+#: admin/class-pirateforms-admin.php:1131
+msgid "Sent email successfully!"
+msgstr "Повідомлення надіслано успішно!"
+
+#: admin/class-pirateforms-admin.php:1039
+msgid "Mail sending failed!"
+msgstr "Не вдалося відправити лист!"
+
+#: admin/class-pirateforms-admin.php:1039
+msgid "Mail sent successfully!"
+msgstr "Лист надіслано успішно!"
+
+#: admin/class-pirateforms-admin.php:1039
+msgid "Status not captured"
+msgstr "Статус не зафіксований"
+
+#: admin/class-pirateforms-admin.php:1016
+msgid "Mail Status"
+msgstr "Статус повідомлення"
+
+#: admin/class-pirateforms-admin.php:157
+msgid "More Features"
+msgstr "Більше можливостей"
+
+#: admin/class-pirateforms-admin.php:440 admin/class-pirateforms-admin.php:459
+#: admin/class-pirateforms-admin.php:478 admin/class-pirateforms-admin.php:497
+#: admin/class-pirateforms-admin.php:515 admin/class-pirateforms-admin.php:532
+msgid "Display but not required"
+msgstr "Показувати, але не обов'язкове"
+
+#: admin/class-pirateforms-admin.php:383
+msgid "Success Page"
+msgstr "Сторінка успішної відправки"
+
+#: admin/class-pirateforms-admin.php:439 admin/class-pirateforms-admin.php:458
+#: admin/class-pirateforms-admin.php:477 admin/class-pirateforms-admin.php:496
+#: admin/class-pirateforms-admin.php:514 admin/class-pirateforms-admin.php:531
+msgid "Do not display"
+msgstr "Не показувати"
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:18
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:19
+msgid "View more features"
+msgstr "Переглянути більше функцій"
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:5
+msgid "Extend to FULL version"
+msgstr "Розширити до FULL версії"
+
+#: admin/class-pirateforms-admin.php:386
+msgid "Select the page that displays after a successful form submission. The page will be displayed without pausing on the email form, so please be sure to configure a relevant thank you message in this page."
+msgstr "Виберіть сторінку, яка з'явиться після успішного відправлення форми. Сторінка відображатиметься без зупинки на електронній формі, тому обов'язково налаштуйте відповідне повідомлення подяки на цій сторінці."
+
+#: admin/class-pirateforms-admin.php:268
+msgid "Contact notification email address"
+msgstr "E-mail адреса для отримання сповіщень"
+
+#: admin/class-pirateforms-admin.php:271
+msgid "The notification email will be sent from this address both to the recipients below and the contact form submitter (if this is activated below in email confirmation, in which case the domain for this email address should match your site's domain)."
+msgstr "Лист сповіщення надсилатиметься з цієї адреси до одержувачів нижче, так і відправнику контактної форми (якщо вона буде активізована нижче в підтвердженні електронною поштою, у такому випадку домен для цієї адреси електронної пошти повинен відповідати домену вашого сайту)."
+
+#: admin/class-pirateforms-admin.php:506
+#: public/class-pirateforms-public.php:1171
+msgid "Attachment"
+msgstr "Додаток"
+
+#: admin/class-pirateforms-admin.php:759
+msgid "Please add an attachment"
+msgstr "Будь ласка додайте додаток"
+
+#: public/class-pirateforms-public.php:461
+msgid "Submit"
+msgstr "Відправити"
+
+#: admin/class-pirateforms-admin.php:319 admin/class-pirateforms-admin.php:339
+#: admin/class-pirateforms-admin.php:377 admin/class-pirateforms-admin.php:414
+#: admin/class-pirateforms-admin.php:820 admin/class-pirateforms-admin.php:863
+msgid "Yes"
+msgstr "Так"
+
+#: admin/class-pirateforms-admin.php:757
+msgid "Attachment is missing"
+msgstr "Додаток відсутній"
+
+#: admin/class-pirateforms-admin.php:884
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/class-pirateforms-admin.php:883
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/class-pirateforms-admin.php:550 admin/class-pirateforms-admin.php:882
+msgid "No"
+msgstr "Ні"
+
+#: admin/class-pirateforms-admin.php:869
+msgid "Security?"
+msgstr "Безпека?"
+
+#: public/class-pirateforms-public.php:1155
+msgid "There was an unknown error uploading the file %s"
+msgstr "Виникла невідома помилка під час завантаження файлу %s"
+
+#: public/class-pirateforms-public.php:1141
+msgid "Uploaded file is too large %s"
+msgstr "Завантажений файл завеликий %s"
+
+#: admin/class-pirateforms-admin.php:348
+msgid "Adding text here will send an email to the form submitter. The email uses the \"Successful form submission text\" field from the \"Alert Messages\" tab as the subject line. Plain text only here, no HTML."
+msgstr "Додавання тексту тут, надішле електронний лист заявнику форми. Електронна пошта використовує поле \"Текст успішного подання форми\" на вкладці \"Повідомлення сповіщення\" як рядок теми. Звичайний текст тут, без HTML."
+
+#: admin/class-pirateforms-admin.php:329
+msgid "Should the form use a WordPress nonce? This helps reduce spam by ensuring that the form submittor is on the site when submitting the form rather than submitting remotely. This could, however, cause problems with sites using a page caching plugin. Turn this off if you are getting complaints about forms not being able to be submitted with an error of \"Nonce failed!\""
+msgstr "Чи повинна форма використовувати WordPress ідентифікатор? Це допомагає зменшити спам, забезпечуючи, щоб відправник форми знаходився на сайті під час подання форми, а не віддалено. Однак це може спричинити проблеми з сайтами за допомогою плагіна кешування сторінок. Вимкніть цю функцію, якщо ви отримуєте скарги на форми, які неможливо надіслати, з помилкою \"Помилка коду перевірки!\""
+
+#: admin/class-pirateforms-admin.php:326
+msgid "Add a nonce to the contact form"
+msgstr "Додайте ідентифікатор до форми контакту"
+
+#. translators: link to blog article about contact form plugins
+#: admin/partials/pirateforms-settings-display.php:95
+msgid "If you want a more complex Contact Form Plugin please check %1$s this link %2$s."
+msgstr "Якщо вам потрібен більш складний плагін контактної форми, будь ласка, перевірте %1$s це посилання: %2$s."
+
+#. translators: link to WordPress.org repo for PirateForms
+#: admin/partials/pirateforms-settings-display.php:81
+msgid "Rate our plugin on %1$s WordPress.org %2$s. We'd really appreciate it!"
+msgstr "Оцініть наш плагін на %1$s WordPress.org %2$s. Ми дуже цінуємо це!"
+
+#: admin/partials/pirateforms-settings-display.php:76
+msgid "Are you enjoying Pirate Forms?"
+msgstr "Вам подобається Pirate Forms?"
+
+#: admin/partials/pirateforms-settings-display.php:56
+msgid "Add a "
+msgstr "Додати"
+
+#: admin/class-pirateforms-admin.php:801
+msgid "SMTP Options"
+msgstr "Параметри SMTP"
+
+#: admin/class-pirateforms-admin.php:698
+#: admin/partials/pirateforms-settings-display.php:37
+msgid "Alert Messages"
+msgstr "Попереджувальне повідомлення"
+
+#: admin/class-pirateforms-admin.php:590
+#: admin/partials/pirateforms-settings-display.php:34
+msgid "Fields Labels"
+msgstr "Мітки полів"
+
+#: admin/class-pirateforms-admin.php:422
+#: admin/partials/pirateforms-settings-display.php:31
+msgid "Fields Settings"
+msgstr "Налаштування полів"
+
+#. Plugin Name of the plugin/theme
+msgid "Free & Simple Contact Form Plugin - Pirateforms"
+msgstr "Безкоштовний та простий плагін контактної форми - Pirateforms"
+
+#: includes/class-pirateforms-util.php:259
+#: includes/class-pirateforms-util.php:300
+#: public/class-pirateforms-public.php:725
+#: public/class-pirateforms-public.php:728
+msgid "Sent from page"
+msgstr "Відправлено з сторінки"
+
+#: includes/class-pirateforms-util.php:257
+#: public/class-pirateforms-public.php:707
+#: public/class-pirateforms-public.php:711
+msgid "IP search"
+msgstr "Пошук IP"
+
+#: includes/class-pirateforms-util.php:256
+#: includes/class-pirateforms-util.php:298
+#: public/class-pirateforms-public.php:706
+#: public/class-pirateforms-public.php:710
+msgid "IP address"
+msgstr "IP адреса"
+
+#: admin/class-pirateforms-admin.php:271
+msgid "Insert [email] to use the contact form submitter's email."
+msgstr "Вставте [email], щоб скористатися електронною адресою електронної пошти заявника контактної форми."
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:53
+msgid "Thank you for subscribing! You have been added to the mailing list and will receive the next email information in the coming weeks. If you ever wish to unsubscribe, simply use the \"Unsubscribe\" link included in each newsletter."
+msgstr "Дякуємо за підписку! Ви були додані до списку розсилки і отримуватиме наступну електронну інформацію протягом найближчих тижнів. Якщо ви коли-небудь захочете відмовитися від розсилки, просто використовуйте посилання \"Скасувати підписку\", включене до кожного листа."
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:51
+msgid "Ready to learn how to reduce your website loading times by half? Come and join the 1st lesson here!"
+msgstr "Готовий навчитись як зменшити час завантаження вашого сайту на половину? Приєднайся до першого уроку тут!"
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:25
+msgid "Get Our Free Email Course"
+msgstr "Отримати наші безкоштовні емейл курси"
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#. Description of the plugin/theme
+msgid "Easily creates a nice looking, simple contact form on your WP site."
+msgstr "Легко створюйте приємну та просту контактну форму на своєму WP сайті."
+
+#. Plugin URI of the plugin/theme
+msgid "http://themeisle.com/plugins/pirate-forms/"
+msgstr "http://themeisle.com/plugins/pirate-forms/"
+
+#: admin/class-pirateforms-admin.php:126 admin/class-pirateforms-admin.php:150
+msgid "Settings"
+msgstr "Налаштування"
+
+#: includes/class-pirateforms.php:271
+msgid "Entries from Pirate Forms"
+msgstr "Записи з Pirate Forms"
+
+#: includes/class-pirateforms.php:267
+msgid "No entries found in Trash."
+msgstr "У кошику немає записів."
+
+#: includes/class-pirateforms.php:260
+msgctxt "add new on admin bar"
+msgid "Entry"
+msgstr "Запис"
+
+#: includes/class-pirateforms.php:258
+msgctxt "post type singular name"
+msgid "Entry"
+msgstr "Запис"
+
+#: includes/class-pirateforms.php:257
+msgctxt "post type general name"
+msgid "Entries"
+msgstr "Записи"
+
+#: includes/class-pirateforms-util.php:153
+msgid "Form submission blocked!"
+msgstr "Відправка форми заблокована!"
+
+#: public/class-pirateforms-public.php:691
+msgid "Please enter one or more Contact submission recipients"
+msgstr "Будь-ласка, введіть одного або декількох одержувачів"
+
+#: includes/class-pirateforms-util.php:240
+#: public/class-pirateforms-public.php:679
+msgid "Contact form submission from %s"
+msgstr "Надсилання контактної форми від %s"
+
+#: public/class-pirateforms-public.php:666
+msgid "Form submission failed!"
+msgstr "Невдала відправка форми!"
+
+#: public/class-pirateforms-public.php:658
+msgid "Nonce failed!"
+msgstr "Помилка коду перевірки!"
+
+#: includes/class-pirateforms-widget.php:113
+msgid "Subtext:"
+msgstr "Підтекст:"
+
+#: includes/class-pirateforms-widget.php:107
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/class-pirateforms-widget.php:103
+msgid "Text above form"
+msgstr "Текст над формою"
+
+#: includes/class-pirateforms-widget.php:102
+msgid "Title"
+msgstr "Назва"
+
+#: admin/partials/pirateforms-settings-display.php:129
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: admin/partials/pirateforms-settings-display.php:64
+msgid " in the theme's files."
+msgstr "у файлах теми."
+
+#: admin/partials/pirateforms-settings-display.php:57
+msgid "widget"
+msgstr "віджет"
+
+#: admin/partials/pirateforms-settings-display.php:60
+msgid " in any page or post."
+msgstr "на будь якій сторінці чи записі."
+
+#: admin/partials/pirateforms-settings-display.php:59
+#: admin/partials/pirateforms-settings-display.php:62
+msgid "Use the shortcode "
+msgstr "Використовуйте скорочений код"
+
+#: admin/partials/pirateforms-settings-display.php:54
+msgid "There are 3 ways of using the newly created form:"
+msgstr "Існує 3 способи використання новоствореної форми:"
+
+#: admin/partials/pirateforms-settings-display.php:49
+msgid "you need, hit save and start using the created form."
+msgstr "вам потрібно, зберегти та почати використовувати створену форму."
+
+#: admin/partials/pirateforms-settings-display.php:49
+msgid "configure all the options "
+msgstr "налаштуйте всі параметри"
+
+#: admin/partials/pirateforms-settings-display.php:48
+msgid "To get started, just "
+msgstr "Для початку просто"
+
+#: admin/partials/pirateforms-settings-display.php:47
+msgid "Welcome to Pirate Forms!"
+msgstr "Вітаємо у Pirate Forms!"
+
+#: admin/partials/pirateforms-settings-display.php:40
+msgid "SMTP"
+msgstr "SMTP"
+
+#: admin/partials/pirateforms-settings-display.php:28
+msgid "Options"
+msgstr "Налаштування"
+
+#: admin/partials/pirateforms-settings-display.php:25
+msgid "How to use"
+msgstr "Як використовувати"
+
+#: admin/partials/pirateforms-settings-display.php:20
+#: includes/class-pirateforms-widget.php:18
+#: includes/class-pirateforms-widget.php:21
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: admin/class-pirateforms-admin.php:903
+msgid "SMTP Password"
+msgstr "Пароль SMTP"
+
+#: admin/class-pirateforms-admin.php:891
+msgid "SMTP Username"
+msgstr "Ім'я користувача SMTP"
+
+#: admin/class-pirateforms-admin.php:853 admin/class-pirateforms-admin.php:872
+msgid "If you check this box, make sure the SMTP Username and SMTP Password are completed."
+msgstr "Якщо ви позначите цей прапорець, переконайтеся, що ім'я користувача SMTP та пароль SMTP введено."
+
+#: admin/class-pirateforms-admin.php:850
+msgid "Use SMTP Authentication?"
+msgstr "Використовувати автентифікацію SMTP?"
+
+#: admin/class-pirateforms-admin.php:838
+msgid "SMTP Port"
+msgstr "Порт SMTP"
+
+#: admin/class-pirateforms-admin.php:826
+msgid "SMTP Host"
+msgstr "Хост SMTP"
+
+#: admin/class-pirateforms-admin.php:811
+msgid "Instead of PHP mail function"
+msgstr "Замість поштової функції PHP"
+
+#: admin/class-pirateforms-admin.php:808
+msgid "Use SMTP to send emails?"
+msgstr "Використовувати SMTP для надсилання електронних листів?"
+
+#: admin/class-pirateforms-admin.php:790
+msgid "Thanks, your email was sent successfully!"
+msgstr "Спасибі, ваш лист був успішно відправлений!"
+
+#: admin/class-pirateforms-admin.php:786
+msgid "This text is used on the page if no Success Page is chosen above. This is also used as the confirmation email title, if one is set to send out."
+msgstr "Цей текст використовується на сторінці, якщо \"Сторінка успіху\" не вибрана вище. Він також використовується як заголовок електронного листа-підтвердження, якщо його призначено для надсилання."
+
+#: admin/class-pirateforms-admin.php:783
+msgid "Successful form submission text"
+msgstr "Текст при успішній відправці форми"
+
+#: admin/class-pirateforms-admin.php:746
+msgid "Enter your question or comment"
+msgstr "Введіть своє питання або коментар"
+
+#: admin/class-pirateforms-admin.php:744
+msgid "Question/comment is missing"
+msgstr "Питання/коментар відсутній"
+
+#: admin/class-pirateforms-admin.php:733
+msgid "Please enter a subject"
+msgstr "Будь ласка, введіть тему"
+
+#: admin/class-pirateforms-admin.php:731
+msgid "Subject required and missing"
+msgstr "Тема відсутня"
+
+#: admin/class-pirateforms-admin.php:720
+msgid "Enter valid email"
+msgstr "Введіть вірний емейл"
+
+#: admin/class-pirateforms-admin.php:718
+msgid "E-mail required and missing"
+msgstr "Емейл відсутній"
+
+#: admin/class-pirateforms-admin.php:707
+msgid "Enter your name"
+msgstr "Введіть ваше ім'я"
+
+#: admin/class-pirateforms-admin.php:705
+msgid "Name required and missing"
+msgstr "Ім'я відсутнє"
+
+#: admin/class-pirateforms-admin.php:649
+msgid "Submit button"
+msgstr "Кнопка відправити"
+
+#: admin/class-pirateforms-admin.php:638
+msgid "Your message"
+msgstr "Ваше повідомлення"
+
+#: admin/class-pirateforms-admin.php:612
+msgid "Your Email"
+msgstr "Ваша електронна пошта"
+
+#: admin/class-pirateforms-admin.php:610
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: admin/class-pirateforms-admin.php:599
+msgid "Your Name"
+msgstr "Ваше ім'я"
+
+#: admin/class-pirateforms-admin.php:578
+msgid "Secret key"
+msgstr "Таємний ключ"
+
+#: admin/class-pirateforms-admin.php:563
+msgid "to get the Site key and the Secret key for the reCaptcha."
+msgstr "щоб отримати ключ сайту і секретний ключ для reCaptcha."
+
+#: admin/class-pirateforms-admin.php:563
+msgid "Create an account here "
+msgstr "Створити обліковий запис"
+
+#: admin/class-pirateforms-admin.php:560
+msgid "Site key"
+msgstr "Ключ сайту"
+
+#: admin/class-pirateforms-admin.php:487 admin/class-pirateforms-admin.php:636
+msgid "Message"
+msgstr "Повідомлення"
+
+#: admin/class-pirateforms-admin.php:468 admin/class-pirateforms-admin.php:623
+#: admin/class-pirateforms-admin.php:625
+msgid "Subject"
+msgstr "Тема"
+
+#: admin/class-pirateforms-admin.php:449
+msgid "Email address"
+msgstr "Електронна пошта"
+
+#: admin/class-pirateforms-admin.php:441 admin/class-pirateforms-admin.php:460
+#: admin/class-pirateforms-admin.php:479 admin/class-pirateforms-admin.php:498
+#: admin/class-pirateforms-admin.php:516 admin/class-pirateforms-admin.php:533
+msgid "Required"
+msgstr "Обов’язкове"
+
+#: includes/class-pirateforms-util.php:169
+msgid "None"
+msgstr "Немає"
+
+#: admin/class-pirateforms-admin.php:430 admin/class-pirateforms-admin.php:597
+msgid "Name"
+msgstr "Ім’я"
+
+#: admin/class-pirateforms-admin.php:345
+msgid "Send email confirmation to form submitter"
+msgstr "Відправити  лист підтвердження відправнику форми"
+
+#: admin/class-pirateforms-admin.php:309
+msgid "Should the submissions be stored in the admin area? If chosen, contact form submissions will be saved under \"All Entries\" on the left (appears after this option is activated)."
+msgstr "Чи повинні відправлення бути збережені в адмін частині? Якщо вибрано, то підписка на контактну форму буде збережена під \"Усі записи\" зліва (з'являється після активації цієї опції)."
+
+#: admin/class-pirateforms-admin.php:306
+msgid "Store submissions in the database"
+msgstr "Зберегти відправлення до бази данних"
+
+#: admin/class-pirateforms-admin.php:290
+msgid "Email address(es) to receive contact submission notifications. You can separate multiple emails with a comma."
+msgstr "Email адреса(и) для отримання сповіщень з контактної форми. Ви можете розділити декілька адрес комами."
+
+#: admin/class-pirateforms-admin.php:287
+msgid "Contact submission recipients"
+msgstr "Отримувачі даних з контактної форми"
+
+#: admin/class-pirateforms-admin.php:261
+msgid "Form processing options"
+msgstr "Опції обробки форми"
+
+#: admin/class-pirateforms-admin.php:192 admin/class-pirateforms-admin.php:206
+msgid "Send Message"
+msgstr "Відправити повідомлення"
+
+#: public/class-pirateforms-public.php:578
+msgid "Sorry, an error occured."
+msgstr "Вибачте, виникла помилка."

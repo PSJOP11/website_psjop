@@ -1,0 +1,1250 @@
+# Translation of Themes - Hestia in Dutch
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-09-14 14:19:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.4)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/core/class-hestia-admin.php:37
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia is een modern WordPress thema voor professionals. Het past bij creatieve bedrijven, kleine bedrijven (restaurants, huwelijksplanners, sport/medische winkels), start-ups, grote bedrijven, online bureaus en firma's, portfolio's, e-commerce (WooCommerce) en freelancers. Het heeft een one-page ontwerp met meerdere mogelijkheden, widgetized footer, blog-/nieuwspagina en een net uiterlijk, is compatibel met: Flat Parallax Slider, Photo Gallery, Travel Map en Elementor Page Builder. Het thema is responsive, WPML, Retina ready, SEO-vriendelijk en gebruikt Material Kit voor het ontwerp."
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/views/main/class-hestia-footer.php:128
+msgid "%1$s | Developed by %2$s"
+msgstr "%1$s | Ontwikkelt door %2$s"
+
+#. translators: %s is Feature name
+#. translators: %s Feature name
+#: inc/customizer/general/class-hestia-upsell-manager.php:160
+#: inc/customizer/general/class-hestia-upsell-manager.php:189
+msgid "More Options Available for %s in the PRO version."
+msgstr "Meer opties beschikbaar voor %s in de PRO versie."
+
+#: inc/customizer/general/class-hestia-general-controls.php:169
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:105
+msgid "Border radius"
+msgstr "Rand afronding"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:80
+msgid "Padding (px)"
+msgstr "Padding (px)"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:223
+msgid "Infinite Scroll"
+msgstr "Oneindige scroll"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:222
+msgid "Number"
+msgstr "Nummer"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:217
+msgid "Post Pagination"
+msgstr "Bericht paginering"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:201
+msgid "Excerpt length"
+msgstr "Lengte samenvatting"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:178
+msgid "Excerpt"
+msgstr "Samenvatting"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:176
+msgid "Blog Post Content"
+msgstr "Inhoud blogbericht"
+
+#: inc/core/class-hestia-admin.php:271
+msgid "WPForms allow you to create beautiful contact forms, subscription forms, payment forms, and other type of forms for your site in minutes, not hours!"
+msgstr "Met WPForms kan je prachtige contactformulieren, inschrijvingsformulieren, betalingsformulieren en andere soorten formulieren in slechts enkele minuten maken."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:90
+msgid "Import Zerif Front page as template "
+msgstr "Import Zerif homepagina als template"
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:86
+msgid "But first, we need to install and activate Elementor."
+msgstr "Eerst moet Elementor geïnstalleerd en geactiveerd worden."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:83
+msgid "We can help you convert your Zerif front page into an Elementor template, so you can use it again."
+msgstr "We kunnen je helpen om de Zerif homepagina in een Elementor template te converteren zodat dat je het terug kunt gebruiken."
+
+#: inc/content-import/class-hestia-import-zerif-frontpage.php:82
+msgid "We detected that you previously had Zerif installed."
+msgstr "We hebben gedetecteerd dat je voorheen Zerif geïnstalleerd had."
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:145
+msgid "Content was successfully imported. Enjoy your new site!"
+msgstr "Inhoud werd succesvol geïmporteerd. Geniet van je nieuwe site!"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:144
+msgid "We recommend you backup your website content before attempting a full site import."
+msgstr "We raden je aan een backup van je site te hebben vooraleer je een volledige site importeert."
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:142
+msgid "Importing Widgets"
+msgstr "Widgets aan het importeren"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:141
+msgid "Setting Up Customizer"
+msgstr "Customizer aan het configureren"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:140
+msgid "Importing Content"
+msgstr "Inhoud aan het importeren"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:139
+msgid "Installing Plugins"
+msgstr "Plugins aan het installeren"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:137
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:134
+msgid "This process will set up your website, install required plugins, import demo content (pages, posts, media) and set up the customizer options."
+msgstr "Deze actie zal je site, de vereiste plugins installeren, de demo inhoud (pagina's, berichten en media) importeren en de customizer opties instellen."
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:132
+msgid "Not right now."
+msgstr "Nu niet."
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:131
+msgid "General"
+msgstr "Algemeen"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:130
+msgid "Plugins"
+msgstr "Plugins"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:129
+msgid "Advanced Options"
+msgstr "Geavanceerde instellingen"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:128
+msgid "Note"
+msgstr "Notitie"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:127
+msgid "Back to Sites Library"
+msgstr "Terug naar de sites bibliotheek"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:126
+msgid "View Website"
+msgstr "Bekijk site"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:125
+msgid "Loading"
+msgstr "Laden"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:124
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:122
+msgid "Import"
+msgstr "Importeren"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:121
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:47
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:70
+msgid "Sites Library"
+msgstr "Sites bibliotheek"
+
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:134
+msgid "Here is where you must add the \"SendinBlue Newsletter\" widget."
+msgstr "Voeg hier de \"SendinBlue Nieuwsbrief\" widget toe."
+
+#. translators: %s Path in plugin
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:125
+msgid "SendinBlue > Home"
+msgstr "SendinBlue > Home"
+
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:113
+msgid "Here is where you must add the \"SendinBlue Newsletter\" widget. But first, you will need to install SendinBlue plugin."
+msgstr "Hier moet je de widget \"SendinBlue nieuwsbrief\" toevoegen. Maar eerst moet je SendinBlue plugin installeren."
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:98
+msgid "Parallax"
+msgstr "Parallax"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:317
+msgid "Second Layer"
+msgstr "Tweede laag"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:302
+msgid "First Layer"
+msgstr "Eerste laag"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:345
+msgid "Extra"
+msgstr "Extra"
+
+#. translators: %1$s is Time since, %2$s is Link to post
+#: inc/customizer/general/class-hestia-upsell-manager.php:166
+#: inc/customizer/general/class-hestia-upsell-manager.php:195
+#: inc/views/blog/class-hestia-blog-post-layout.php:326
+#: inc/views/blog/class-hestia-featured-posts.php:141
+msgid "Read more"
+msgstr "Lees verder"
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:50
+msgid "Featured Posts"
+msgstr "Uitgelichte berichten"
+
+#: functions.php:40
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by upgrading PHP to the latest version."
+msgstr "Hallo, we hebben gemerkt dat de huidige PHP-versie achterhaald is en niet meer ondersteunt wordt. Zorg ervoor dat je site snel en veilig is door naar de laatste PHP-versie te upgraden."
+
+#: inc/customizer/general/class-hestia-header-controls.php:254
+msgid "Header Settings"
+msgstr "Header-instellingen"
+
+#: inc/customizer/general/class-hestia-color-controls.php:43
+msgid "Header Gradient"
+msgstr "Gradient header"
+
+#. translators: Upsell to get the pro version
+#. translators: %s Required action
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/customizer/general/class-hestia-upsell-manager.php:116
+msgid "Hestia front-page is not multi-language compatible, for this feature %s."
+msgstr "Hestia homepage is niet compatibel voor meertaligheid, voor deze functie %s."
+
+#: inc/customizer/general/class-hestia-header-controls.php:39
+msgid "Enable Header Image Sitewide"
+msgstr "Headerafbeelding inschakelen op de volledige site"
+
+#: inc/customizer/class-hestia-customizer-main.php:81
+msgid "Header Background"
+msgstr "Header achtergrond"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:135
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:179
+#: inc/customizer/general/class-hestia-typography-controls.php:310
+#: inc/customizer/general/class-hestia-typography-controls.php:439
+msgid "Content"
+msgstr "Inhoud"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:201
+msgid "Posts & Pages"
+msgstr "Berichten en pagina's"
+
+#: inc/customizer/general/class-hestia-header-controls.php:109
+msgid "Enable Search in Menu"
+msgstr "Zoeken in menu inschakelen"
+
+#: inc/customizer/general/class-hestia-general-controls.php:130
+msgid "Enable Scroll to Top"
+msgstr "Scroll naar boven inschakelen"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:52
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: inc/core/class-hestia-public.php:202
+msgid "Footer Four"
+msgstr "Footer Vier"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "Pagina met zijbalk"
+
+#: inc/core/class-hestia-public.php:294
+#: inc/customizer/general/class-hestia-header-controls.php:71
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Change this subtitle in the %s."
+msgstr "Wijzig deze subtitel in de %s."
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+msgid "Change in the %s"
+msgstr "Wijzig in de %s"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:253
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-header-controls.php:124
+#: inc/customizer/general/class-hestia-header-controls.php:172
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/views/class-hestia-tweaks.php:166 inc/views/class-hestia-tweaks.php:170
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Second"
+msgstr "Tweede"
+
+#: inc/core/class-hestia-public.php:187 inc/core/class-hestia-public.php:294
+#: inc/customizer/general/class-hestia-header-controls.php:71
+#: inc/customizer/general/class-hestia-header-controls.php:310
+msgid "Very Top Bar"
+msgstr "Topbalk helemaal bovenaan"
+
+#: inc/core/class-hestia-public.php:188
+#: inc/customizer/general/class-hestia-header-controls.php:299
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: inc/customizer/general/class-hestia-header-controls.php:25
+msgid "Header Options"
+msgstr "Header opties"
+
+#: inc/customizer/general/class-hestia-general-controls.php:110
+msgid "Enable Sharing Icons"
+msgstr "Aanzetten deel iconen"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:77
+msgid "font size"
+msgstr "letter grootte"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "Body"
+msgstr "Broodtekst"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:73
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:146
+msgid "font family"
+msgstr "Lettertype"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:129
+#: inc/customizer/general/class-hestia-typography-controls.php:278
+msgid "Headings"
+msgstr "Koppen"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:173
+msgid "Font Subsets"
+msgstr "Lettertype subsets"
+
+#: inc/customizer/general/class-hestia-typography-controls.php:50
+#: inc/customizer/general/class-hestia-upsell-manager.php:161
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:59
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:58
+msgid "Standard Fonts"
+msgstr "Standaard lettertypen"
+
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:47
+#: inc/customizer/controls/custom-controls/font-selector/class-hestia-font-selector.php:56
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/core/class-hestia-admin.php:183
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "Toon een voorpagina sectie waar je maar wilt door een shortcode toe te voegen in een pagina- of berichtinhoud."
+
+#: inc/core/class-hestia-admin.php:182
+msgid "Shortcodes for each section"
+msgstr "Shortcodes voor elke sectie"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s reactie"
+msgstr[1] "%1$s reacties"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Eén reactie"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:172
+msgid "Activating "
+msgstr "Activeren"
+
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:106
+msgid "Install and activate"
+msgstr "Installeer en activeer"
+
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:136
+#: inc/views/front-page/class-hestia-big-title-section.php:179
+#: inc/views/front-page/class-hestia-big-title-section.php:186
+#: inc/views/front-page/class-hestia-blog-section.php:59
+msgid "Customizer"
+msgstr "Customizer"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:402
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:403
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:404
+#: inc/views/front-page/class-hestia-big-title-section.php:192
+msgid "Change in the Customizer"
+msgstr "Wijzig in de Customizer"
+
+#: inc/core/class-hestia-admin.php:177
+#: inc/customizer/general/class-hestia-upsell-manager.php:69
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "De mogelijkheid om je Voorpagina Secties makkelijker en sneller te herstructureren."
+
+#: inc/core/class-hestia-admin.php:130 inc/core/class-hestia-admin.php:132
+msgid "Go to the Customizer"
+msgstr "Ga naar de Customizer"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:68
+msgid "Drag and drop panels to change the order of sections."
+msgstr "Versleep panelen om de volgorde van secties te wijzigen."
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:104
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "De mogelijkheid om je Voorpagina secties makkelijker en sneller te herstructureren."
+
+#: inc/customizer/controls/ui/class-hestia-control-upsell.php:72
+#: inc/customizer/controls/ui/class-hestia-section-upsell.php:84
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "Page Builder volledige breedte"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "Page Builder blanco pagina"
+
+#: inc/helpers/layout-functions.php:279
+#: inc/views/main/class-hestia-top-bar.php:68
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "Deze zijbalk is actief, maar leeg. Om deze lay-out te gebruiken, moet je widgets in de zijbalk toevoegen."
+
+#: inc/customizer/general/class-hestia-general-controls.php:88
+msgid "Blog Sidebar Layout"
+msgstr "Blog zijbalk lay-out"
+
+#: inc/admin/individual-page-settings/class-hestia-page-settings.php:46
+#: inc/customizer/general/class-hestia-general-controls.php:195
+msgid "Right Sidebar"
+msgstr "Zijbalk rechts"
+
+#: inc/admin/individual-page-settings/class-hestia-page-settings.php:42
+#: inc/customizer/general/class-hestia-general-controls.php:191
+msgid "Left Sidebar"
+msgstr "Zijbalk links"
+
+#: inc/admin/individual-page-settings/class-hestia-page-settings.php:38
+#: inc/customizer/general/class-hestia-general-controls.php:187
+msgid "Full Width"
+msgstr "Volledige breedte"
+
+#: inc/customizer/general/class-hestia-general-controls.php:65
+msgid "Page Sidebar Layout"
+msgstr "Pagina zijbalk lay-out"
+
+#: inc/core/class-hestia-public.php:186
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce zijbalk"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "Template met volledige breedte"
+
+#: inc/admin/about-page/class-hestia-about-page.php:595
+msgid "Activating"
+msgstr "Activeren"
+
+#: inc/views/blog/class-hestia-additional-views.php:117
+msgid "Tags: "
+msgstr "Tags: "
+
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:80
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/blog/class-hestia-additional-views.php:110
+msgid "Categories:"
+msgstr "Categorieën:"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "We kunnen niet vinden wat je zoekt. Misschien helpt zoeken?"
+
+#: template-parts/content-none.php:34
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, er werd niets gevonden met de ingegeven zoekterm. Probeer het nog eens met een ander trefwoord."
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:133
+#: template-parts/content-none.php:25
+msgid "Get started here"
+msgstr "Begin hier"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "Klaar om je eerste bericht te schrijven? %s."
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: inc/views/blog/class-hestia-blog-post-layout.php:300
+msgid "%1$s ago %2$s"
+msgstr "%1$s geleden %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: inc/views/blog/class-hestia-blog-post-layout.php:291
+msgid "By %1$s, %2$s"
+msgstr "Door %1$s, %2$s"
+
+#. translators: search result
+#: inc/views/blog/class-hestia-header-layout-manager.php:317
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#. translators: %d is number of items
+#: inc/compatibility/woocommerce/functions.php:69
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d items"
+
+#: inc/compatibility/woocommerce/functions.php:65
+msgid "View your shopping cart"
+msgstr "Bekijk je winkelmand"
+
+#: inc/views/blog/class-hestia-additional-views.php:89
+msgid "Share on Google+"
+msgstr "Deel dit op Google+"
+
+#: inc/views/blog/class-hestia-additional-views.php:82
+msgid "Share on Twitter"
+msgstr "Deel dit via Twitter"
+
+#: inc/views/blog/class-hestia-additional-views.php:75
+msgid "Share on Facebook"
+msgstr "Deel dit op Facebook"
+
+#: inc/views/blog/class-hestia-additional-views.php:214
+msgid "Related Posts"
+msgstr "Gerelateerde artikelen"
+
+#: inc/helpers/layout-functions.php:132
+msgid "What's on your mind?"
+msgstr "Waar denk je aan?"
+
+#: inc/views/class-hestia-tweaks.php:137
+msgid "Website"
+msgstr "Website"
+
+#: inc/views/class-hestia-tweaks.php:136
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/views/class-hestia-tweaks.php:135
+msgid "Name"
+msgstr "Naam"
+
+#. translators: %s is Link to login
+#: inc/helpers/layout-functions.php:123
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Je moet <a href=\"%s\">ingelogd zijn</a> om een bericht te kunnen schrijven."
+
+#: inc/helpers/layout-functions.php:186
+msgid "Reply"
+msgstr "Reageren"
+
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:81
+#: inc/helpers/layout-functions.php:175
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/helpers/layout-functions.php:171
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s op %2$s"
+
+#: inc/helpers/layout-functions.php:25
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: inc/helpers/layout-functions.php:24
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#. translators: %s is Category name
+#: inc/helpers/layout-functions.php:675
+msgid "View all posts in %s"
+msgstr "Bekijk alle berichten in %s"
+
+#: inc/customizer/general/class-hestia-buttons-style-controls.php:46
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Button"
+msgstr "Knop"
+
+#: inc/core/class-hestia-public.php:508
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/core/class-hestia-public.php:507
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "Change this subtitle in %s."
+msgstr "Wijzig deze ondertitel in %s."
+
+#: inc/views/front-page/class-hestia-contact-section.php:86
+#: inc/views/front-page/class-hestia-shop-section.php:68
+#: inc/views/front-page/class-hestia-subscribe-section.php:65
+msgid "customizer"
+msgstr "customizer"
+
+#: inc/customizer/general/class-hestia-upsell-manager.php:40
+msgid "View PRO Features"
+msgstr "Bekijk PRO kenmerken"
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:129
+#: inc/views/front-page/class-hestia-subscribe-section.php:69
+msgid "Subscribe to our Newsletter"
+msgstr "Schrijf je in voor onze nieuwsbrief"
+
+#: inc/core/class-hestia-public.php:185
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:21
+msgid "Subscribe"
+msgstr "Schrijf je in"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:83
+#: inc/views/front-page/class-hestia-shop-section.php:72
+msgid "Products"
+msgstr "Producten"
+
+#: inc/customizer/front-page/class-hestia-shop-controls.php:24
+msgid "Shop"
+msgstr "Winkel"
+
+#: inc/customizer/general/class-hestia-general-controls.php:153
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "Indien geactiveerd zal het thema een vierkante lay-out hebben."
+
+#: inc/customizer/general/class-hestia-general-controls.php:152
+msgid "Boxed Layout"
+msgstr "Boxed lay-out"
+
+#: inc/admin/individual-page-settings/class-hestia-page-settings.php:145
+#: inc/customizer/front-page/class-hestia-contact-controls.php:53
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:52
+#: inc/customizer/general/class-hestia-general-controls.php:44
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:57
+#: inc/customizer/front-page/class-hestia-contact-controls.php:159
+msgid "Contact Content"
+msgstr "Contact inhoud"
+
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:34
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:111
+msgid "Instructions"
+msgstr "Instructies"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:116
+msgid "Form Title"
+msgstr "Titel formulier"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:111
+#: inc/helpers/layout-functions.php:715
+#: inc/views/front-page/class-hestia-contact-section.php:91
+msgid "Contact Us"
+msgstr "Neem contact op"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:221
+#: inc/views/front-page/class-hestia-contact-section.php:90
+msgid "Get in Touch"
+msgstr "Neem contact op"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:94
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:91
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: inc/customizer/front-page/class-hestia-contact-controls.php:21
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/customizer/general/class-hestia-color-controls.php:25
+msgid "Accent Color"
+msgstr "Accentkleur"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:46
+#: inc/customizer/front-page/class-hestia-shop-controls.php:52
+msgid "Number of Items"
+msgstr "Aantal items"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:120
+#: inc/customizer/general/class-hestia-typography-controls.php:408
+msgid "Section Subtitle"
+msgstr "Sectie ondertitel"
+
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:106
+#: inc/customizer/general/class-hestia-typography-controls.php:377
+msgid "Section Title"
+msgstr "Sectie titel"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:21
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:79
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:100
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:156
+#: inc/views/front-page/class-hestia-blog-section.php:63
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/front-page/class-hestia-blog-section-controls.php:80
+#: inc/customizer/front-page/class-hestia-contact-controls.php:222
+#: inc/customizer/front-page/class-hestia-shop-controls.php:84
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:130
+msgid "Change this subtitle in the Customizer"
+msgstr "Wijzig deze ondertitel in de Customizer"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:221
+msgid "Button URL"
+msgstr "URL knop"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:206
+#: inc/views/class-hestia-tweaks.php:170
+msgid "Button text"
+msgstr "Knoptekst"
+
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:95
+#: inc/customizer/general/class-hestia-upsell-manager.php:190
+msgid "Big Title Background"
+msgstr "Grote titel achtergrond"
+
+#: inc/core/class-hestia-public.php:189
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:22
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:341
+#: inc/customizer/general/class-hestia-typography-controls.php:347
+msgid "Big Title Section"
+msgstr "Grote titel selectie"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:76
+#: inc/customizer/front-page/class-hestia-about-controls.php:103
+msgid "About Content"
+msgstr "Over Inhoud"
+
+#: inc/compatibility/page-builders/beaver/class-hestia-beaver-builder-compatibility.php:41
+#: inc/compatibility/page-builders/elementor/class-hestia-elementor-compatibility.php:122
+#: inc/core/abstract/class-hestia-front-page-section-controls-abstract.php:92
+#: inc/customizer/front-page/class-hestia-about-controls.php:55
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:59
+#: inc/customizer/general/class-hestia-header-controls.php:55
+msgid "Disable section"
+msgstr "Deactiveer sectie"
+
+#: inc/customizer/front-page/class-hestia-about-controls.php:31
+msgid "About"
+msgstr "Over"
+
+#: inc/customizer/class-hestia-customizer-notices.php:158
+msgid "Recommended Plugins"
+msgstr "Aanbevolen plugins"
+
+#. translators: Orbit Fox Companion
+#: inc/customizer/class-hestia-customizer-notices.php:163
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "Als je volledig gebruik wilt maken van de opties die dit thema te bieden heeft, installeer en activeer %s."
+
+#: inc/core/class-hestia-admin.php:264
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "Het wordt zeer aangeraden om de bijpassende plugin te installeren om toegang te krijgen tot de Voorpagina functies, Team en Recensies secties."
+
+#: inc/core/class-hestia-admin.php:225 inc/core/class-hestia-admin.php:260
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:125
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: inc/core/class-hestia-admin.php:224 inc/core/class-hestia-admin.php:259
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:110
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/core/class-hestia-admin.php:223 inc/core/class-hestia-admin.php:258
+msgid "Install and Activate"
+msgstr "Installeer en activeer"
+
+#: inc/core/class-hestia-admin.php:222
+msgid "Version: "
+msgstr "Versie:"
+
+#: inc/core/class-hestia-admin.php:221
+msgid "Already activated"
+msgstr "Reeds geactiveerd"
+
+#: inc/core/class-hestia-admin.php:213
+#: inc/customizer/general/class-hestia-upsell-manager.php:70
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24/7 helpdesk met professionele ondersteuning"
+
+#: inc/core/class-hestia-admin.php:212
+#: inc/customizer/general/class-hestia-upsell-manager.php:61
+msgid "Quality Support"
+msgstr "Kwaliteit support"
+
+#: inc/core/class-hestia-admin.php:195
+#: inc/customizer/general/class-hestia-upsell-manager.php:65
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "Wijzig de kleuren van de header overlay, header tekst en navigatiebar."
+
+#: inc/core/class-hestia-admin.php:194
+#: inc/customizer/general/class-hestia-upsell-manager.php:57
+msgid "Fully Customizable Colors"
+msgstr "Volledig aanpasbare kleuren"
+
+#: inc/core/class-hestia-admin.php:189
+#: inc/customizer/general/class-hestia-upsell-manager.php:64
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "Je kan nog meer inhoud toevoegen aan je site header met behulp van een prachtige slider."
+
+#: inc/core/class-hestia-admin.php:188
+#: inc/customizer/general/class-hestia-upsell-manager.php:56
+msgid "Header Slider"
+msgstr "Header slider"
+
+#: inc/core/class-hestia-admin.php:171
+msgid "You can use any background image you want."
+msgstr "Je kan elke gewenste achtergrond afbeelding gebruiken."
+
+#: inc/core/class-hestia-admin.php:170
+msgid "Background image"
+msgstr "Achtergrondafbeelding"
+
+#: inc/core/class-hestia-admin.php:165
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "Grote titel, Kenmerken, Over, Team, Aanbevelingen, Inschrijven, Blog, Contact"
+
+#: inc/core/class-hestia-admin.php:159
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "Gereed voor e-commerce. Je kan hier een webwinkel maken."
+
+#: inc/core/class-hestia-admin.php:158
+msgid "WooCommerce Compatible"
+msgstr "WooCommerce compatibel"
+
+#: inc/core/class-hestia-admin.php:153
+msgid "Responsive layout. Works on every device."
+msgstr "Responsive lay-out. Werkt op elk apparaat; tablet, smartphone, desktop."
+
+#: inc/core/class-hestia-admin.php:152
+msgid "Mobile friendly"
+msgstr "Mobielvriendelijk"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:145
+msgid "Get %s now!"
+msgstr "Verkrijg %s nu!"
+
+#: inc/core/class-hestia-admin.php:131
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Met behulp van de WordPress Customizer kan je gemakkelijk elk aspect van het thema aanpassen."
+
+#: inc/core/class-hestia-admin.php:113
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "We hebben een lijst opgesteld met stappen die je kunt nemen, zodat we ervoor kunnen zorgen dat de ervaring die je hebt met één van onze producten heel makkelijk te volgen is."
+
+#: inc/core/class-hestia-admin.php:112 inc/core/class-hestia-admin.php:114
+msgid "Recommended actions"
+msgstr "Aanbevolen acties"
+
+#: inc/core/class-hestia-admin.php:102
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "In de documentatie hieronder vind je een gemakkelijke manier om een prachtig ogende landingspagina te maken met een drag-and-drop content builder plugin."
+
+#: inc/core/class-hestia-admin.php:100
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Maak een landingspagina met de drag en drop content builder."
+
+#: inc/core/class-hestia-admin.php:93
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Als je ooit in een situatie komt waarbij alles van je site erg traag draait, kun je misschien eens kijken naar de documentatie hieronder met de meest voorkomende problemen en mogelijke oplossingen voor elk probleem."
+
+#: inc/core/class-hestia-admin.php:91
+msgid "Speed up your site"
+msgstr "Maak je site sneller"
+
+#: inc/core/class-hestia-admin.php:85 inc/core/class-hestia-admin.php:94
+#: inc/core/class-hestia-admin.php:103
+msgid "View how to do this"
+msgstr "Kijk hoe je dit doet"
+
+#: inc/core/class-hestia-admin.php:84
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Als je wijzigingen wilt aanbrengen in je thema, dan worden deze waarschijnlijk overschreven wanneer je in de toekomst je thema update. Om dat te voorkomen kan je het beste een child thema maken. Kijk in onderstaande documentatie hoe je dat doet."
+
+#: inc/core/class-hestia-admin.php:82
+msgid "Create a child theme"
+msgstr "Maak een subthema"
+
+#: inc/core/class-hestia-admin.php:75
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Wil je een samenvatting van de laatste wijzigingen in het thema? Bekijk onderstaand onze changelog met hierin de meeste recente reparaties en nieuwe functionaliteiten en kenmerken."
+
+#: inc/core/class-hestia-admin.php:67 inc/core/class-hestia-admin.php:121
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:137
+msgid "Read full documentation"
+msgstr "Lees de volledige documentatie hieronder"
+
+#: inc/core/class-hestia-admin.php:66 inc/core/class-hestia-admin.php:122
+#: inc/core/class-hestia-public.php:445
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "Meer details nodig? Bekijk onze volledige documentatie voor gedetailleerde informatie over hoe je Hestia moet gebruiken."
+
+#: inc/core/class-hestia-admin.php:57
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "We willen ervoor zorgen dat je de beste ervaring met Hestia hebt en dat is waarom we de belangrijkste informatie hier voor je hebben verzameld. We hopen dat je veel plezier hebt in het gebruik van Hestia, net zoveel als wij graag prachtige producten maken."
+
+#: inc/core/class-hestia-admin.php:55 inc/core/class-hestia-admin.php:58
+msgid "Contact Support"
+msgstr "Neem contact op met ondersteuning"
+
+#: inc/core/class-hestia-admin.php:50
+msgid "Free vs PRO"
+msgstr "Gratis vs. PRO"
+
+#: inc/core/class-hestia-admin.php:49 inc/core/class-hestia-admin.php:73
+#: inc/core/class-hestia-admin.php:76
+msgid "Changelog"
+msgstr "Logbestand veranderingen"
+
+#: inc/core/class-hestia-admin.php:48
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: inc/core/class-hestia-admin.php:47
+msgid "Useful Plugins"
+msgstr "Handige plugins"
+
+#: inc/core/class-hestia-admin.php:46
+msgid "Recommended Actions"
+msgstr "Aanbevolen acties"
+
+#: inc/core/class-hestia-admin.php:45
+msgid "Getting Started"
+msgstr "Aan de slag"
+
+#. translators: s - theme name
+#: inc/core/class-hestia-admin.php:35
+msgid "Welcome to %s! - Version "
+msgstr "Welkom in %s! - Versie"
+
+#: inc/core/class-hestia-admin.php:30 inc/core/class-hestia-admin.php:32
+#: inc/core/class-hestia-public.php:445
+msgid "About Hestia"
+msgstr "Over Hestia"
+
+#: inc/customizer/class-hestia-customizer-main.php:67
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:31
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:137
+msgid "Blog Settings"
+msgstr "Blog instellingen"
+
+#: inc/core/class-hestia-admin.php:164
+#: inc/customizer/class-hestia-customizer-main.php:56
+#: inc/customizer/general/class-hestia-general-controls.php:169
+#: inc/customizer/general/class-hestia-typography-controls.php:216
+msgid "Frontpage Sections"
+msgstr "Voorpagina secties"
+
+#: inc/customizer/class-hestia-customizer-main.php:46
+msgid "Appearance Settings"
+msgstr "Weergave instellingen"
+
+#: inc/core/class-hestia-admin.php:207
+#: inc/customizer/general/class-hestia-upsell-manager.php:67
+#: inc/customizer/general/class-hestia-upsell-manager.php:103
+msgid "A fully customizable pricing plans section."
+msgstr "Een volledig aanpasbare sectie voor pakketprijzen."
+
+#: inc/core/class-hestia-admin.php:201
+#: inc/customizer/general/class-hestia-upsell-manager.php:66
+#: inc/customizer/general/class-hestia-upsell-manager.php:102
+msgid "Portfolio section with two possible layouts."
+msgstr "Portfolio sectie met twee verschillende lay-outs."
+
+#: inc/admin/class-hestia-admin-notices-manager.php:39
+#: inc/admin/onboarding/includes/class-themeisle-ob-admin.php:123
+#: inc/customizer/general/class-hestia-upsell-manager.php:73
+#: inc/customizer/general/class-hestia-upsell-manager.php:116
+#: inc/customizer/general/class-hestia-upsell-manager.php:119
+msgid "Get the PRO version!"
+msgstr "Schaf de PRO versie aan!"
+
+#: inc/core/class-hestia-admin.php:176
+#: inc/customizer/general/class-hestia-upsell-manager.php:60
+#: inc/customizer/general/class-hestia-upsell-manager.php:109
+msgid "Section Reordering"
+msgstr "Secties herschikken"
+
+#: inc/core/class-hestia-admin.php:206
+#: inc/customizer/general/class-hestia-upsell-manager.php:59
+#: inc/customizer/general/class-hestia-upsell-manager.php:108
+msgid "Pricing Plans Section"
+msgstr "Sectie voor pakketprijzen"
+
+#: inc/core/class-hestia-admin.php:200
+#: inc/customizer/controls/ui/helper-plugin-install/class-hestia-plugin-install-helper.php:130
+#: inc/customizer/general/class-hestia-upsell-manager.php:58
+#: inc/customizer/general/class-hestia-upsell-manager.php:107
+msgid "Jetpack Portfolio"
+msgstr "Jetpack portfolio"
+
+#: inc/core/class-hestia-admin.php:64 inc/core/class-hestia-admin.php:123
+#: inc/customizer/class-hestia-customizer-notices.php:80
+msgid "Documentation"
+msgstr "Documentatie"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer/controls/ui/subscribe-info/class-hestia-subscribe-info.php:121
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "Na het installeren van de plugin, moet je naar %s navigeren en de plugin configureren."
+
+#: inc/customizer/front-page/class-hestia-subscribe-controls.php:55
+msgid "SendinBlue plugin"
+msgstr "SendinBlue plugin"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:792
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:830
+msgid "Add Icon"
+msgstr "Icoon toevoegen"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:787
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:824
+msgid "Remove Icon"
+msgstr "Verwijder icoon"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:756
+msgid "Social icons"
+msgstr "Social iconen"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:742
+#: inc/customizer/general/class-hestia-blog-settings-controls.php:158
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:737
+msgid "Image type"
+msgstr "Type afbeelding"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:724
+msgid "Upload Image"
+msgstr "Upload afbeelding"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:721
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:741
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:97
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:152
+msgid "Image"
+msgstr "Afbeelding"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:685
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:763
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:683
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:761
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Opmerking: enkele iconen worden hier niet weergeven. Je kunt een volledige lijst van iconen zien via %1$s."
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:677
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:740
+msgid "Icon"
+msgstr "Icoon"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:489
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:605
+msgid "Delete field"
+msgstr "Verwijder veld"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:469
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:593
+#: inc/customizer/front-page/class-hestia-contact-controls.php:185
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:437
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:458
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:566
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:584
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:784
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:810
+#: inc/views/class-hestia-tweaks.php:174
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:427
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:448
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:557
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:575
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:179
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:417
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:548
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:407
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:539
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:75
+#: inc/customizer/general/class-hestia-typography-controls.php:245
+msgid "Title"
+msgstr "Titel"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:384
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:396
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:519
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:529
+#: inc/views/class-hestia-tweaks.php:162 inc/views/class-hestia-tweaks.php:166
+msgid "Color"
+msgstr "Kleur"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:148
+msgid "Customizer Repeater"
+msgstr "Customizer herhaler"
+
+#: inc/customizer/controls/custom-controls/repeater/class-hestia-repeater.php:143
+msgid "Add new field"
+msgstr "Voeg een nieuw veld toe"
+
+#: inc/customizer/controls/custom-controls/customizer-page-editor/class-hestia-page-editor.php:65
+#: inc/customizer/front-page/class-hestia-about-controls.php:126
+msgid "About background"
+msgstr "Over achtergrond"
+
+#: inc/customizer/class-hestia-customizer-notices.php:114
+msgid "WooCommerce plugin"
+msgstr "WooCommerce plugin"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer/class-hestia-customizer-notices.php:113
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "Installeer en configureer %1$s, om toegang tot een winkelsectie te krijgen."
+
+#. translators: %1$s is Plugin name
+#: inc/customizer/controls/ui/class-hestia-contact-info.php:37
+#: inc/helpers/layout-functions.php:722
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "Om een contactformulier aan deze sectie toe te voegen, moet je de %s plugin installeren."
+
+#: inc/views/main/class-hestia-header.php:108
+msgid "Toggle Navigation"
+msgstr "Navigatie wisselen"
+
+#: inc/views/class-hestia-tweaks.php:158
+msgid "Button Text"
+msgstr "Knoptekst"
+
+#: inc/views/class-hestia-tweaks.php:71
+msgid "Read more&hellip;"
+msgstr "Lees verder&hellip;"
+
+#: inc/compatibility/woocommerce/functions.php:416
+#: inc/core/class-hestia-public.php:341
+msgid "View cart"
+msgstr "Bekijk winkelmand"
+
+#: inc/core/class-hestia-public.php:557
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core/class-hestia-public.php:556
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/core/class-hestia-public.php:201
+msgid "Footer Three"
+msgstr "Footer Drie"
+
+#: inc/core/class-hestia-public.php:200
+msgid "Footer Two"
+msgstr "Footer Twee"
+
+#: inc/core/class-hestia-public.php:199
+msgid "Footer One"
+msgstr "Footer Eén"
+
+#: inc/core/class-hestia-public.php:510
+msgid "Blog Subscribe Section"
+msgstr "Blog aanmeld sectie"
+
+#: inc/admin/individual-page-settings/class-hestia-page-settings.php:34
+#: inc/core/class-hestia-public.php:184
+#: inc/customizer/front-page/class-hestia-big-title-controls.php:130
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: inc/core/class-hestia-public.php:293
+msgid "Footer Menu"
+msgstr "Footer menu"
+
+#: inc/core/class-hestia-public.php:292 inc/core/class-hestia-public.php:468
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/core/class-hestia-public.php:509
+#: inc/customizer/class-hestia-customizer-notices.php:78
+#: inc/views/main/class-hestia-footer.php:129
+msgid "Hestia"
+msgstr "Hestia"
+
+#: comments.php:73
+msgid "Comments are closed."
+msgstr "Gesloten voor reacties."
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:48
+msgid "Size: %s"
+msgstr "Grootte: %s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: inc/views/blog/class-hestia-header-layout-manager.php:383
+msgid "Published by %1$s on %2$s"
+msgstr "Gepubliceerd door %1$s op %2$s"
+
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.4)  #-#-#-#-#
+#. translators: %1$s is URL, %2$s is WordPress
+#. #-#-#-#-#  hestia.pot (Hestia 2.0.4)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: inc/views/main/class-hestia-footer.php:133
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"

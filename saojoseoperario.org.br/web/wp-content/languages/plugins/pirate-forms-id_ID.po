@@ -1,0 +1,636 @@
+# Translation of Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk) in Indonesian
+# This file is distributed under the same license as the Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-19 10:42:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Contact Form &amp; SMTP Plugin for WordPress by PirateForms - Development (trunk)\n"
+
+#: vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-endpoints.php:238
+msgid "%s not found"
+msgstr "%s tidak ditemukan"
+
+#: vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-endpoints.php:299
+msgid "Invalid %"
+msgstr "Tidak Valid %"
+
+#: admin/class-pirateforms-admin.php:623
+msgid "You can use the next magic tags:"
+msgstr "Anda dapat menggunakan tags ajaib berikut ini:"
+
+#: admin/class-pirateforms-admin.php:622
+msgid "Email content"
+msgstr "Konten email"
+
+#: public/class-pirateforms-public.php:819
+msgid "Incorrect CAPTCHA"
+msgstr "CAPTCHA salah"
+
+#: public/class-pirateforms-public.php:807
+msgid "Invalid CAPTCHA"
+msgstr "CAPTCHA tidak valid"
+
+#: admin/class-pirateforms-admin.php:76
+msgid "Please specify the Site Key and Secret Key."
+msgstr "Silahkan masukkan Site Key dan Secret Key"
+
+#: admin/class-pirateforms-admin.php:512
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: public/class-pirateforms-public.php:828
+msgid "Submission blocked!"
+msgstr "Pengajuan diblokir!"
+
+#: includes/class-pirateforms-util.php:258
+#: includes/class-pirateforms-util.php:299
+#: public/class-pirateforms-public.php:584
+msgid "Came from"
+msgstr "Datang dari"
+
+#: public/class-pirateforms-public.php:104
+msgid "I'm human!"
+msgstr "Saya manusia!"
+
+#: admin/class-pirateforms-admin.php:511
+msgid "Custom"
+msgstr "Kustom"
+
+#: admin/class-pirateforms-admin.php:501
+msgid "Add a spam trap"
+msgstr "Tambahkan jebakan spam"
+
+#: admin/class-pirateforms-admin.php:378
+msgid "Integrate with Akismet?"
+msgstr "Integrasikan dengan Akismet?"
+
+#: public/class-pirateforms-public.php:957
+msgid "Uploaded file type is not allowed for %s"
+msgstr "Jenis berkas yang diunggah tidak diijinkan untuk %s"
+
+#: includes/class-pirateforms-html.php:190
+msgid "Upload file"
+msgstr "Unggah Berkas"
+
+#: admin/class-pirateforms-admin.php:381
+msgid "Checking this option will verify the content of the message with Akismet to check if it's spam. If it is determined to be spam, the message will be blocked. %s"
+msgstr "Mencentang opsi ini akan memverifikasi konten pesan kepada Akismet untuk memeriksa apakah ini spam. Jika terindikasi spam, pesan akan diblokir. %s"
+
+#: admin/class-pirateforms-admin.php:250
+msgid "To use this option, please ensure Akismet is activated with a valid key."
+msgstr "Untuk menggunakan opsi ini, pastikan Akismet telah aktif dengan key yang valid."
+
+#: includes/class-pirateforms.php:256
+msgid "No entries found."
+msgstr "Tidak ada entri yang ditemukan."
+
+#: includes/class-pirateforms.php:249
+msgctxt "admin menu"
+msgid "Entries"
+msgstr "Entri"
+
+#: admin/partials/pirateforms-settings-display.php:138
+msgid "Send Test Email"
+msgstr "Kirim Tes Email"
+
+#: includes/class-pirateforms.php:253
+msgid "All Entries"
+msgstr "Semua Entri"
+
+#: includes/class-pirateforms.php:255
+msgid "Parent Entries:"
+msgstr "Induk Entri:"
+
+#: includes/class-pirateforms.php:254
+msgid "Search Entries"
+msgstr "Cari Entri"
+
+#: includes/class-pirateforms.php:252
+msgid "View Entry"
+msgstr "Lihat Entri"
+
+#: includes/class-pirateforms.php:251
+msgid "Edit Entry"
+msgstr "Sunting Entri"
+
+#: includes/class-pirateforms-widget.php:112
+msgid "Need more forms ? Check our <a href=\"%s\" target=\"_blank\">extended</a> version for more features"
+msgstr "Perlu formulir lainnya? Kunjungi versi <a href=\"%s\" target=\"_blank\">lanjut</a> untuk fitur lainnya"
+
+#: admin/partials/pirateforms-settings-display.php:71
+msgid "If you are using the default (non-SMTP) configuration which uses the WP/PHP mail, mails might either land in the spam/junk folders or they might get lost. So, you might not receive the email even if the status against an entry reads the mail has been sent successfully. If you face this, please contact your system administrator. If you continue to face this problem, you can switch to the SMTP configuration to ensure email deliverability."
+msgstr "Jika Anda menggunakan konfigurasi default (bukan-SMTP) yang menggunakan email WP/PHP, email mungkin masuk ke folder spam/sampah atau mungkin nyasar. Jadi, Anda mungkin tidak menerima email meskipun status entri telah berhasil dikirim. Jika Anda mengalaminya, hubungi administrator sistem Anda. Jika Anda terus mengalami masalah ini, Anda dapat beralih ke konfigurasi SMTP untuk memastikan email benar-benar dikirim. "
+
+#: admin/class-pirateforms-admin.php:969
+msgid "Status not captured"
+msgstr "Status tidak berhasil ditangkap"
+
+#: admin/class-pirateforms-admin.php:1019
+msgid "Sent email failed!"
+msgstr "Gagal mengirim email!"
+
+#: admin/class-pirateforms-admin.php:1019
+msgid "Sent email successfully!"
+msgstr "Berhasil mengirim email!"
+
+#: admin/class-pirateforms-admin.php:969
+msgid "Mail sending failed!"
+msgstr "Gagal mengirim email!"
+
+#: admin/class-pirateforms-admin.php:969
+msgid "Mail sent successfully!"
+msgstr "Email berhasil dikirim!"
+
+#: admin/class-pirateforms-admin.php:946
+msgid "Mail Status"
+msgstr "Status Email"
+
+#: admin/class-pirateforms-admin.php:154
+msgid "More Features"
+msgstr "Fitur Lainnya"
+
+#: admin/class-pirateforms-admin.php:417 admin/class-pirateforms-admin.php:436
+#: admin/class-pirateforms-admin.php:455 admin/class-pirateforms-admin.php:474
+#: admin/class-pirateforms-admin.php:492
+msgid "Display but not required"
+msgstr "Tampil tapi tidak diwajibkan"
+
+#: admin/class-pirateforms-admin.php:360
+msgid "Success Page"
+msgstr "Halaman Sukses"
+
+#: admin/class-pirateforms-admin.php:416 admin/class-pirateforms-admin.php:435
+#: admin/class-pirateforms-admin.php:454 admin/class-pirateforms-admin.php:473
+#: admin/class-pirateforms-admin.php:491
+msgid "Do not display"
+msgstr "Jangan tampil"
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:18
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:19
+msgid "View more features"
+msgstr "Lihat fitur lainnya"
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:5
+msgid "Extend to FULL version"
+msgstr "Tingkatkan ke versi PENUH"
+
+#: admin/class-pirateforms-admin.php:363
+msgid "Select the page that displays after a successful form submission. The page will be displayed without pausing on the email form, so please be sure to configure a relevant thank you message in this page."
+msgstr "Pilih halaman yang ditampilkan setelah berhasil mengajukan formulir. Halaman akan ditampilkan tanpa jeda pada formulir email, jadi silakan pastikan untuk melakukan konfigurasi pesan terimakasih yang relevan pada halaman ini."
+
+#: admin/class-pirateforms-admin.php:265
+msgid "Contact notification email address"
+msgstr "Alamat email untuk notifikasi"
+
+#: admin/class-pirateforms-admin.php:268
+msgid "The notification email will be sent from this address both to the recipients below and the contact form submitter (if this is activated below in email confirmation, in which case the domain for this email address should match your site's domain)."
+msgstr "Email notifikasi akan dikirim melalui alamat ini kepada penerima di bawah dan pelaku pengajuan formulir kontak (jika ini diaktifkan di bawah dalam konfirmasi email. Dalam hal ini, domain dari alamat surel ini harus sama dengan domain situs anda)."
+
+#: admin/class-pirateforms-admin.php:483
+#: public/class-pirateforms-public.php:995
+msgid "Attachment"
+msgstr "Lampiran"
+
+#: public/class-pirateforms-public.php:362
+msgid "Submit"
+msgstr "Kirim"
+
+#: admin/class-pirateforms-admin.php:316 admin/class-pirateforms-admin.php:335
+#: admin/class-pirateforms-admin.php:391 admin/class-pirateforms-admin.php:750
+#: admin/class-pirateforms-admin.php:793
+msgid "Yes"
+msgstr "Ya"
+
+#: admin/class-pirateforms-admin.php:700
+msgid "Attachment is missing"
+msgstr "Lampiran hilang"
+
+#: admin/class-pirateforms-admin.php:702
+msgid "Please add an attachment"
+msgstr "Tambahkan lampiran"
+
+#: admin/class-pirateforms-admin.php:814
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/class-pirateforms-admin.php:813
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/class-pirateforms-admin.php:510 admin/class-pirateforms-admin.php:812
+msgid "No"
+msgstr "Tidak"
+
+#: admin/class-pirateforms-admin.php:799
+msgid "Security?"
+msgstr "Keamanan?"
+
+#: public/class-pirateforms-public.php:979
+msgid "There was an unknown error uploading the file %s"
+msgstr "Terjadi kesalahan yang tidak diketahui ketika mengunggah berkas %s"
+
+#: public/class-pirateforms-public.php:965
+msgid "Uploaded file is too large %s"
+msgstr "Berkas yang diunggah terlalu besar %s"
+
+#: admin/class-pirateforms-admin.php:344
+msgid "Adding text here will send an email to the form submitter. The email uses the \"Successful form submission text\" field from the \"Alert Messages\" tab as the subject line. Plain text only here, no HTML."
+msgstr "Tulisan yang ditambahkan disini akan mengirimkan email ke pengirim formulir. Email menggunakan kolom pesan \"Pengiriman tulisan formulir Sukses\" dari tab \"Notifikasi Pesan\" sebagai subjek email. Hanya teks saja, tidak berisi kode HTML."
+
+#: admin/class-pirateforms-admin.php:325
+msgid "Should the form use a WordPress nonce? This helps reduce spam by ensuring that the form submittor is on the site when submitting the form rather than submitting remotely. This could, however, cause problems with sites using a page caching plugin. Turn this off if you are getting complaints about forms not being able to be submitted with an error of \"Nonce failed!\""
+msgstr "Apakah formulir menggunakan nonce WordPress? Ini membantu mengurangi spam dengan memastikan pengirim formulir berada di situs saat mengirim formulir bukan di tempat lain. Bagaimanapun, bisa saja terjadi masalah yang disebabkan plugin cache. Matikan ini jika Anda menemukan kendala formulir tidak dapat dikirim dengan kesalahan \"Nonce Salah!\""
+
+#: admin/class-pirateforms-admin.php:322
+msgid "Add a nonce to the contact form:"
+msgstr "Tambahkan nonce ke form kontak:"
+
+#: admin/class-pirateforms-admin.php:641
+#: admin/partials/pirateforms-settings-display.php:37
+msgid "Alert Messages"
+msgstr "Pesan Alert"
+
+#. translators: link to blog article about contact form plugins
+#: admin/partials/pirateforms-settings-display.php:95
+msgid "If you want a more complex Contact Form Plugin please check %1$s this link %2$s."
+msgstr "Jika Anda ingin plugin  Form Kontak yang lebih komplek silahkan lihat %1$s link ini %2$s."
+
+#. translators: link to WordPress.org repo for PirateForms
+#: admin/partials/pirateforms-settings-display.php:81
+msgid "Rate our plugin on %1$s WordPress.org %2$s. We'd really appreciate it!"
+msgstr "Nilai pugin kami di %1$s WordPress.org %2$s. Kami akan sangat menghargai itu!"
+
+#: admin/partials/pirateforms-settings-display.php:76
+msgid "Are you enjoying Pirate Forms?"
+msgstr "Apakah Anda menikmati Pirate Forms?"
+
+#: admin/partials/pirateforms-settings-display.php:56
+msgid "Add a "
+msgstr "Tambah"
+
+#: admin/class-pirateforms-admin.php:731
+msgid "SMTP Options"
+msgstr "Opsi SMTP"
+
+#: admin/class-pirateforms-admin.php:550
+#: admin/partials/pirateforms-settings-display.php:34
+msgid "Fields Labels"
+msgstr "Label Bidang"
+
+#: admin/class-pirateforms-admin.php:399
+#: admin/partials/pirateforms-settings-display.php:31
+msgid "Fields Settings"
+msgstr "Pengaturan Bidang"
+
+#: includes/class-pirateforms-util.php:256
+#: includes/class-pirateforms-util.php:298
+#: public/class-pirateforms-public.php:576
+msgid "IP address"
+msgstr "Alamat IP"
+
+#. Plugin Name of the plugin/theme
+msgid "Free & Simple Contact Form Plugin - Pirateforms"
+msgstr "Plugin Form Kontak Gratis & Sederhana - Pirateforms"
+
+#: includes/class-pirateforms-util.php:259
+#: includes/class-pirateforms-util.php:300
+#: public/class-pirateforms-public.php:590
+msgid "Sent from page"
+msgstr "Kirim dari halaman"
+
+#: includes/class-pirateforms-util.php:257
+#: public/class-pirateforms-public.php:577
+msgid "IP search"
+msgstr "Cari IP"
+
+#: admin/class-pirateforms-admin.php:268
+msgid "Insert [email] to use the contact form submitter's email."
+msgstr "Masukkan [email] untuk digunakan email pengirim form kontak."
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:53
+msgid "Thank you for subscribing! You have been added to the mailing list and will receive the next email information in the coming weeks. If you ever wish to unsubscribe, simply use the \"Unsubscribe\" link included in each newsletter."
+msgstr "Terimakasih telah berlangganan! Andatelah ditambahkan ke daftar pelanggan dan akan menerima email informasi berikutnya minggu depan. Jika Anda berharap untuk berhenti berlangganan, cukup klik tautan \"Berhenti Langganan\" disetiap email yang ada."
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:51
+msgid "Ready to learn how to reduce your website loading times by half? Come and join the 1st lesson here!"
+msgstr "Siap mempelajari bagaimanan cara mengurangi waktu loading situs web lebih baik? Bergabunglah di pelajaran pertama disini!"
+
+#: admin/partials/pirateforms-settings-sidebar-subscribe.php:25
+msgid "Get Our Free Email Course"
+msgstr "Dapatkan panduan gratis kami via Email"
+
+#: admin/class-pirateforms-admin.php:572
+msgid "Your Email"
+msgstr "Email Anda"
+
+#: includes/class-pirateforms-util.php:169
+msgid "None"
+msgstr "Tidak ada"
+
+#: admin/partials/pirateforms-settings-display.php:25
+msgid "How to use"
+msgstr "Cara menggunakan"
+
+#: admin/class-pirateforms-admin.php:676
+msgid "Please enter a subject"
+msgstr "Silakan masukkan subyek"
+
+#: public/class-pirateforms-public.php:528
+msgid "Nonce failed!"
+msgstr "Nonce gagal!"
+
+#: includes/class-pirateforms-widget.php:97
+msgid "Title"
+msgstr "Judul"
+
+#: admin/class-pirateforms-admin.php:538
+msgid "Secret key"
+msgstr "Secret key"
+
+#: admin/class-pirateforms-admin.php:768
+msgid "SMTP Port"
+msgstr "Port SMTP"
+
+#: admin/partials/pirateforms-settings-display.php:40
+msgid "SMTP"
+msgstr "SMTP"
+
+#: admin/class-pirateforms-admin.php:713
+msgid "Successful form submission text"
+msgstr "Teks pengiriman sukses"
+
+#: includes/class-pirateforms-widget.php:107
+msgid "Subtext:"
+msgstr "Sub teks: "
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com"
+msgstr "http://themeisle.com"
+
+#. Description of the plugin/theme
+msgid "Easily creates a nice looking, simple contact form on your WP site."
+msgstr "Dengan mudah membuat form kontak yang bagus, sederhana di situs WP Anda."
+
+#. Plugin URI of the plugin/theme
+msgid "http://themeisle.com/plugins/pirate-forms/"
+msgstr "http://themeisle.com/plugins/pirate-forms/"
+
+#: admin/class-pirateforms-admin.php:123 admin/class-pirateforms-admin.php:147
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: includes/class-pirateforms.php:261
+msgid "Entries from Pirate Forms"
+msgstr "Entri dari Pirate Forms"
+
+#: includes/class-pirateforms.php:257
+msgid "No entries found in Trash."
+msgstr "Tidak ada entri di Tong Sampah."
+
+#: includes/class-pirateforms.php:250
+msgctxt "add new on admin bar"
+msgid "Entry"
+msgstr "Entri"
+
+#: includes/class-pirateforms.php:248
+msgctxt "post type singular name"
+msgid "Entry"
+msgstr "Entri"
+
+#: includes/class-pirateforms.php:247
+msgctxt "post type general name"
+msgid "Entries"
+msgstr "Entri"
+
+#: includes/class-pirateforms-util.php:153
+msgid "Form submission blocked!"
+msgstr "Form pengajuan diblokir!"
+
+#: public/class-pirateforms-public.php:561
+msgid "Please enter one or more Contact submission recipients"
+msgstr "Harap masukkan satu atau lebih penerima kiriman Kontak"
+
+#: includes/class-pirateforms-util.php:240
+#: public/class-pirateforms-public.php:549
+msgid "Contact form submission from %s"
+msgstr "Pengajuan form kontak dari %s"
+
+#: public/class-pirateforms-public.php:536
+#: public/class-pirateforms-public.php:601
+msgid "Form submission failed!"
+msgstr "Pengajuan form gagal!"
+
+#: includes/class-pirateforms-widget.php:101
+msgid "Title:"
+msgstr "Judul:"
+
+#: includes/class-pirateforms-widget.php:98
+msgid "Text above form"
+msgstr "Teks diatas form"
+
+#: admin/partials/pirateforms-settings-display.php:129
+msgid "Save changes"
+msgstr "Simpan perubahan"
+
+#: admin/partials/pirateforms-settings-display.php:64
+msgid " in the theme's files."
+msgstr "di berkas tema."
+
+#: admin/partials/pirateforms-settings-display.php:57
+msgid "widget"
+msgstr "widget"
+
+#: admin/partials/pirateforms-settings-display.php:60
+msgid " in any page or post."
+msgstr "di halaman atau pos manapun."
+
+#: admin/partials/pirateforms-settings-display.php:59
+#: admin/partials/pirateforms-settings-display.php:62
+msgid "Use the shortcode "
+msgstr "Gunakan potongan kode"
+
+#: admin/partials/pirateforms-settings-display.php:54
+msgid "There are 3 ways of using the newly created form:"
+msgstr "Terdapat 3 cara dalam menggunakan form yang baru dibuat:"
+
+#: admin/partials/pirateforms-settings-display.php:49
+msgid "you need, hit save and start using the created form."
+msgstr "Anda perlu, klik simpan dan mulai gunakan form yang dibuat."
+
+#: admin/partials/pirateforms-settings-display.php:49
+msgid "configure all the options "
+msgstr "konfigurasikan semua opsi"
+
+#: admin/partials/pirateforms-settings-display.php:48
+msgid "To get started, just "
+msgstr "Untuk memulai, cukup"
+
+#: admin/partials/pirateforms-settings-display.php:47
+msgid "Welcome to Pirate Forms!"
+msgstr "Selamat Datang di Pirate Forms!"
+
+#: admin/partials/pirateforms-settings-display.php:28
+msgid "Options"
+msgstr "Opsi"
+
+#: admin/partials/pirateforms-settings-display.php:20
+#: includes/class-pirateforms-widget.php:18
+#: includes/class-pirateforms-widget.php:21
+msgid "Pirate Forms"
+msgstr "Pirate Forms"
+
+#: admin/class-pirateforms-admin.php:833
+msgid "SMTP Password"
+msgstr "Katasandi SMTP"
+
+#: admin/class-pirateforms-admin.php:821
+msgid "SMTP Username"
+msgstr "Nama pengguna SMTP"
+
+#: admin/class-pirateforms-admin.php:783 admin/class-pirateforms-admin.php:802
+msgid "If you check this box, make sure the SMTP Username and SMTP Password are completed."
+msgstr "Jika Anda centang kotak ini, pastikan nama pengguna dan katasandi SMTP sudah lengkap."
+
+#: admin/class-pirateforms-admin.php:780
+msgid "Use SMTP Authentication?"
+msgstr "Gunakan Autentikasi SMTP?"
+
+#: admin/class-pirateforms-admin.php:756
+msgid "SMTP Host"
+msgstr "Host SMTP"
+
+#: admin/class-pirateforms-admin.php:741
+msgid "Instead of PHP mail function"
+msgstr "Sebagai pengganti fungsi email PHP"
+
+#: admin/class-pirateforms-admin.php:738
+msgid "Use SMTP to send emails?"
+msgstr "Gunakan SMTP untuk mengirim email?"
+
+#: admin/class-pirateforms-admin.php:720
+msgid "Thanks, your email was sent successfully!"
+msgstr "Terima kasih, email Anda berhasil dikirim!"
+
+#: admin/class-pirateforms-admin.php:716
+msgid "This text is used on the page if no Success Page is chosen above. This is also used as the confirmation email title, if one is set to send out."
+msgstr "Teks ini digunakan pada halaman jika tidak ada Halaman Sukses yang dipilih. Juga digunakan sebagai judul konfirmasi email, jika tidak ditentukan."
+
+#: admin/class-pirateforms-admin.php:689
+msgid "Enter your question or comment"
+msgstr "Masukkan pertanyaan atau komentar Anda"
+
+#: admin/class-pirateforms-admin.php:687
+msgid "Question/comment is missing"
+msgstr "Pertanyaan/komentar kosong"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#: admin/class-pirateforms-admin.php:674
+msgid "Subject required and missing"
+msgstr "Subyek diperlukan"
+
+#: admin/class-pirateforms-admin.php:663
+msgid "Enter valid email"
+msgstr "Masukkan email yang valid"
+
+#: admin/class-pirateforms-admin.php:661
+msgid "E-mail required and missing"
+msgstr "Email diperlukan"
+
+#: admin/class-pirateforms-admin.php:650
+msgid "Enter your name"
+msgstr "Masukkan nama Anda"
+
+#: admin/class-pirateforms-admin.php:609
+msgid "Submit button"
+msgstr "Tombol submit"
+
+#: admin/class-pirateforms-admin.php:598
+msgid "Your message"
+msgstr "Pesan Anda"
+
+#: admin/class-pirateforms-admin.php:570
+msgid "Email"
+msgstr "Email"
+
+#: admin/class-pirateforms-admin.php:559
+msgid "Your Name"
+msgstr "Nama Anda"
+
+#: admin/class-pirateforms-admin.php:523
+msgid "Create an account here "
+msgstr "Buat akun disini"
+
+#: admin/class-pirateforms-admin.php:464 admin/class-pirateforms-admin.php:596
+msgid "Message"
+msgstr "Pesan"
+
+#: admin/class-pirateforms-admin.php:445 admin/class-pirateforms-admin.php:583
+#: admin/class-pirateforms-admin.php:585
+msgid "Subject"
+msgstr "Subyek"
+
+#: admin/class-pirateforms-admin.php:426
+msgid "Email address"
+msgstr "Alamat email"
+
+#: admin/class-pirateforms-admin.php:418 admin/class-pirateforms-admin.php:437
+#: admin/class-pirateforms-admin.php:456 admin/class-pirateforms-admin.php:475
+#: admin/class-pirateforms-admin.php:493
+msgid "Required"
+msgstr "Diperlukan"
+
+#: admin/class-pirateforms-admin.php:407 admin/class-pirateforms-admin.php:557
+msgid "Name"
+msgstr "Nama"
+
+#: admin/class-pirateforms-admin.php:341
+msgid "Send email confirmation to form submitter"
+msgstr "Kirim email konfirmasi kepada pengirim"
+
+#: admin/class-pirateforms-admin.php:306
+msgid "Should the submissions be stored in the admin area? If chosen, contact form submissions will be saved under \"All Entries\" on the left (appears after this option is activated)."
+msgstr "Apakah ingin kiriman di simpan di area admin? Jika ya, pengiriman formulir kontak akan di simpan di \"Semua Entri\" sebelah kiri (muncul setelah opsi ini diaktifkan)."
+
+#: admin/class-pirateforms-admin.php:303
+msgid "Store submissions in the database"
+msgstr "Simpan kiriman di database"
+
+#: admin/class-pirateforms-admin.php:284
+msgid "Contact submission recipients"
+msgstr "Hubungi penerima kiriman"
+
+#: admin/class-pirateforms-admin.php:258
+msgid "Form processing options"
+msgstr "Opsi proses formulir"
+
+#: admin/class-pirateforms-admin.php:189 admin/class-pirateforms-admin.php:203
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: public/class-pirateforms-public.php:466
+msgid "Sorry, an error occured."
+msgstr "Maaf, terjadi kesalahan."
+
+#: admin/class-pirateforms-admin.php:648
+msgid "Name required and missing"
+msgstr "Nama diperlukan"
+
+#: admin/class-pirateforms-admin.php:287
+msgid "Email address(es) to receive contact submission notifications. You can separate multiple emails with a comma."
+msgstr "Alamat email untuk menerima pemberitahuan kiriman. Anda dapat memisahkannya beberapa email dengan koma."
+
+#: admin/class-pirateforms-admin.php:523
+msgid "to get the Site key and the Secret key for the reCaptcha."
+msgstr "untuk mendapatkan Site key dan Secret key reCaptcha."
+
+#: admin/class-pirateforms-admin.php:520
+msgid "Site key"
+msgstr "Site key"

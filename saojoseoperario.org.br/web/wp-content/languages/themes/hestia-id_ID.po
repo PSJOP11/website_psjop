@@ -1,0 +1,1114 @@
+# Translation of Themes - Hestia in Indonesian
+# This file is distributed under the same license as the Themes - Hestia package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-01-24 06:42:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Hestia\n"
+
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.59)  #-#-#-#-#
+#. Description of the plugin/theme
+#: inc/features/feature-about-page.php:27
+msgid "Hestia is a modern WordPress theme for professionals. It fits creative business, small businesses (restaurants, wedding planners, sport/medical shops), startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), and freelancers. It has a multipurpose one-page design, widgetized footer, blog/news page and a clean look, is compatible with: Flat Parallax Slider, Photo Gallery, Travel Map and Elementor Page Builder . The theme is responsive, WPML, Retina ready, SEO friendly, and uses Material Kit for design."
+msgstr "Hestia adalah tema WordPress modern yang profesional. Cocok untuk bisnis kreatif, bisnis kecil (restoran, acara pernikahan, olahraga/toko obat-obatan), bisnis awal, bisnis besar, agen online, portofolio, ecommerce (WooCommerce), dan freelance. Tema ini memiliki desain one-page yang serba guna, bagian footer di widgetkan, halaman blog/kabar berita dan enak dilihat, cocok untuk: Parallax Slider, Photo Gallery, Travel Map dan Elementor Page Builder. Tema ini sangat responsif, WPML, Retina, SEO bersahabat, dan menggunakan Material Kit untuk desainnya."
+
+#: inc/features/feature-header-settings.php:45
+msgid "Enable Header Image Sitewide"
+msgstr "Adakan Gambar Header Seluruh Situs"
+
+#: inc/customizer.php:162 inc/features/feature-header-settings.php:31
+msgid "Header Background"
+msgstr "Latar Belakang Header"
+
+#: vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-endpoints.php:299
+msgid "Invalid %"
+msgstr "Tidak Valid %"
+
+#: vendor/codeinwp/themeisle-sdk/class-themeisle-sdk-endpoints.php:238
+msgid "%s not found"
+msgstr "%s tidak ditemukan"
+
+#: inc/typography/typography-settings.php:394
+msgid "Main content for Frontpage Sections, Blog and WooCommerce pages ( Single product page and Shop page )."
+msgstr "Konten utama untuk Bagian Laman Depan, Blog dan halaman WooCommerce (laman tunggal produk dan laman toko)."
+
+#: inc/typography/typography-settings.php:359
+msgid "Subtitles on Blog and Frontpage sections and WooCommerce price on product page."
+msgstr "Sub judul pada Blog dan bagian Laman Depan dan halaman harga produk WooCommerce."
+
+#: inc/typography/typography-settings.php:358
+msgid "Subtitles"
+msgstr "Sub judul"
+
+#: inc/typography/typography-settings.php:324
+msgid "Titles for Frontpage Sections ( for Slider check Posts & Pages Title ), Box Headings for Frontpage Sections, Blog and WooCommerce pages ( Single product page, Cart and Checkout )."
+msgstr "Judul untuk Bagian Laman Depan (untuk Slider Pos & Judul Laman), Box Heading untuk Bagian Laman Depan, Blog dan laman WooCommerce (laman tunggal produk, Keranjang dan Checkout)."
+
+#: inc/typography/typography-settings.php:323
+msgid "Titles"
+msgstr "Judul"
+
+#: inc/typography/typography-settings.php:296
+msgid "Blog, Frontpage & WooCommerce"
+msgstr "Blog, Laman Depan & WooCommerce"
+
+#: functions.php:1051
+msgid "Wanted to let you know that we did some changes to how font sizes work, make sure that they look well on your site after the update, front-page settings will be added in next version."
+msgstr "Perlu diketahui bahwa kami telah melakukan beberapa perubahan pada bagaimana font bekerja, pastikan font terlihat bagus pada situs Anda setelah pembaruan, pengaturan laman depan akan ditambahkan di versi selanjutnya."
+
+#: inc/typography/typography-settings.php:263
+#: inc/typography/typography-settings.php:393
+msgid "Content"
+msgstr "Konten"
+
+#: inc/typography/typography-settings.php:169
+msgid "Posts & Pages"
+msgstr "Pos & Laman"
+
+#: inc/features/feature-header-settings.php:153
+msgid "Enable Search in Menu"
+msgstr "Adakan Pencarian di Menu"
+
+#: inc/features/feature-general-settings.php:160
+msgid "Enable Scroll to Top"
+msgstr "Adakan Kembali ke Atas"
+
+#: functions.php:988
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Cari &hellip;"
+
+#: functions.php:985
+msgctxt "label"
+msgid "Search for:"
+msgstr "Cari:"
+
+#: inc/customizer-page-editor/customizer-page-editor.php:26
+msgid "Save and close"
+msgstr "Simpan dan tutup"
+
+#. Template Name of the plugin/theme
+msgid "Page with Sidebar"
+msgstr "Laman dengan sidebar"
+
+#: functions.php:142 inc/features/feature-header-settings.php:89
+msgid "Menu"
+msgstr "Menu"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-blog-section.php:37
+msgid "Change this subtitle in the %s."
+msgstr "Ubah sub judul ini di %s."
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-big-title-section.php:111
+#: inc/sections/hestia-big-title-section.php:118
+msgid "Change in the %s"
+msgstr "Ubah di %s"
+
+#: inc/features/feature-big-title-section.php:130
+#: inc/features/feature-header-settings.php:170
+#: inc/features/feature-individual-layout.php:29
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: functions.php:613 functions.php:617 functions.php:621
+msgid "Second"
+msgstr "Kedua"
+
+#: functions.php:142 functions.php:206
+#: inc/features/feature-header-settings.php:56
+#: inc/features/feature-header-settings.php:89
+msgid "Very Top Bar"
+msgstr "Bar Paling Atas"
+
+#: functions.php:207 inc/features/feature-header-settings.php:134
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: inc/features/feature-header-settings.php:19
+msgid "Header Options"
+msgstr "Opsi Header"
+
+#: inc/features/feature-general-settings.php:145
+msgid "Enable Sharing Icons"
+msgstr "Adakan Ikon Bagikan"
+
+#: inc/features/feature-navigation-tabs.php:40
+msgid "font size"
+msgstr "ukuran font"
+
+#: inc/typography/typography-settings.php:99
+msgid "Body"
+msgstr "Body"
+
+#: inc/features/feature-navigation-tabs.php:31
+#: inc/typography/typography-settings.php:74
+#: inc/typography/typography-settings.php:99
+msgid "font family"
+msgstr "font family"
+
+#: inc/typography/typography-settings.php:74
+#: inc/typography/typography-settings.php:230
+msgid "Headings"
+msgstr "Headings"
+
+#: inc/typography/typography-settings.php:128
+msgid "Font Subsets"
+msgstr "Font Subsets"
+
+#: inc/typography/typography-settings.php:43
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/customizer-font-selector/class/class-hestia-font-selector.php:81
+msgid "Google Fonts"
+msgstr "Google Font"
+
+#: inc/customizer-font-selector/class/class-hestia-font-selector.php:66
+msgid "Standard Fonts"
+msgstr "Standard Font"
+
+#: inc/customizer-font-selector/class/class-hestia-font-selector.php:60
+#: inc/features/feature-individual-layout.php:54
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/features/feature-about-page.php:169
+msgid "Display a frontpage section wherever you like by adding its shortcode in page or post content."
+msgstr "Tampilkan bagian laman depan dimanapun Anda inginkan dengan menambahkan potongan kode ini di konten laman atau pos."
+
+#: inc/features/feature-about-page.php:168
+msgid "Shortcodes for each section"
+msgstr "Potongan kode untuk setiap bagian"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] " %1$s Komentar"
+msgstr[1] "%1$s Komentar"
+
+#. translators: %s: post title
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgstr "Satu Komentar"
+
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:116
+msgid "Activating "
+msgstr "Mengaktifkan"
+
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:60
+msgid "Install and activate"
+msgstr "Pasang dan Aktifkan"
+
+#: inc/features/feature-contact-section.php:322
+msgid "In order to add a contact form to this section, you need to install the Pirate Forms plugin."
+msgstr "Untuk menambahkan formulir kontak di bidang ini, Anda perlu memasang plugin Pirate Forms."
+
+#: inc/sections/hestia-big-title-section.php:111
+#: inc/sections/hestia-big-title-section.php:118
+#: inc/sections/hestia-blog-section.php:37
+msgid "Customizer"
+msgstr "Penyesuai"
+
+#: inc/features/feature-big-title-section.php:153
+#: inc/features/feature-big-title-section.php:154
+#: inc/features/feature-big-title-section.php:155
+#: inc/sections/hestia-big-title-section.php:124
+msgid "Change in the Customizer"
+msgstr "Ganti di Penyesuai Kustomisasi"
+
+#: inc/features/feature-about-page.php:163
+#: inc/features/feature-theme-info-section.php:56
+msgid "The ability to reorganize your Frontpage Sections more easily and quickly."
+msgstr "Kemampuan mengorganisir ulang Bidang Laman Depan Anda lebih mudah dan cepat."
+
+#: inc/features/feature-about-page.php:120
+#: inc/features/feature-about-page.php:122
+msgid "Go to the Customizer"
+msgstr "Pergi ke Penyesuai"
+
+#: inc/customizer.php:132
+msgid "Drag and drop panels to change the order of sections."
+msgstr "Seret dan Jatuhkan panel untuk mengganti susunan bagian."
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:110
+msgid "The ability to reorganize your Frontpage sections more easily and quickly."
+msgstr "Kemampuan untuk mengorganisir ulang Bidang Laman Depan Anda lebih mudah dan cepat."
+
+#: inc/customizer-theme-info/class-hestia-control-upsell-theme-info.php:68
+msgid "PRO"
+msgstr "PRO"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Full Width"
+msgstr "Lebar Penuh Page Builder"
+
+#. Template Name of the plugin/theme
+msgid "Page Builder Blank"
+msgstr "Page Builder Kosong"
+
+#: inc/template-tags.php:1039
+msgid "This sidebar is active but empty. In order to use this layout, please add widgets in the sidebar"
+msgstr "Sidebar ini aktif tapi kosong. Untuk menggunakan tata letak ini, silahkan tambahkan widget di sidebar"
+
+#: inc/features/feature-general-settings.php:114
+msgid "Blog Sidebar Layout"
+msgstr "Tata Letak Sidebar Blog"
+
+#: inc/features/feature-general-settings.php:96
+#: inc/features/feature-general-settings.php:128
+#: inc/features/feature-individual-layout.php:57
+msgid "Right Sidebar"
+msgstr "Sidebar Kanan"
+
+#: inc/features/feature-general-settings.php:92
+#: inc/features/feature-general-settings.php:124
+#: inc/features/feature-individual-layout.php:56
+msgid "Left Sidebar"
+msgstr "Sidebar Kiri"
+
+#: inc/features/feature-general-settings.php:88
+#: inc/features/feature-general-settings.php:120
+#: inc/features/feature-individual-layout.php:55
+msgid "Full Width"
+msgstr "Lebar Penuh"
+
+#: inc/features/feature-general-settings.php:82
+msgid "Page Sidebar Layout"
+msgstr "Tata Letak Sidebar Laman"
+
+#: functions.php:205
+msgid "WooCommerce Sidebar"
+msgstr "Sidebar WooCommerce"
+
+#. Template Name of the plugin/theme
+msgid "Fullwidth Template"
+msgstr "Tata Letak Penuh"
+
+#: ti-about-page/class-themeisle-about-page.php:1084
+#: ti-customizer-notify/class-themeisle-customizer-notify.php:170
+msgid "Activating"
+msgstr "Mengaktifkan"
+
+#: template-parts/content-single.php:74
+msgid "Tags: "
+msgstr "Tags: "
+
+#: template-parts/content-single.php:66
+msgid "Categories:"
+msgstr "Kategori:"
+
+#: template-parts/content-none.php:34
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sepertinya kami tidak dapat menemukan apa yang Anda cari. Cobalah pencarian."
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada hal yang cocok dengan pencarian. Harap coba lagi dengan kata kunci berbeda."
+
+#. translators: %1$s is Link to new post, %2$s is Get started here
+#: template-parts/content-none.php:25
+msgid "Get started here"
+msgstr "Mulai disini"
+
+#. translators: %s is Link to new post
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? %s."
+msgstr "Siap mempublikasikan pos pertama Anda? %s."
+
+#. translators: %1$s is Time since post, %2$s is author Close tag
+#: template-parts/content-alternative.php:57 template-parts/content.php:69
+msgid "%1$s ago %2$s"
+msgstr "%1$s yang lalu %2$s"
+
+#. translators: %1$s is Author name wrapped, %2$s is Time
+#: template-parts/content-alternative.php:48 template-parts/content.php:60
+msgid "By %1$s, %2$s"
+msgstr "Oleh %1$s, %2$s"
+
+#. translators: %s is Search query
+#: search.php:41
+msgid "Search Results for: %s"
+msgstr "Hasil pencarian: %s"
+
+#. translators: %d is number of items
+#: inc/woocommerce/functions.php:67
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d item"
+msgstr[1] "%d item"
+
+#: inc/woocommerce/functions.php:63 inc/woocommerce/functions.php:114
+msgid "View your shopping cart"
+msgstr "Lihat keranjang belanja"
+
+#: inc/template-tags.php:504
+msgid "Related Posts"
+msgstr "Pos Terkait"
+
+#: inc/template-tags.php:437
+msgid "What's on your mind?"
+msgstr "Apa yang Anda pikirkan?"
+
+#: inc/template-tags.php:434
+msgid "Website"
+msgstr "Website"
+
+#: inc/template-tags.php:433
+msgid "Email"
+msgstr "Email"
+
+#: inc/template-tags.php:432
+msgid "Name"
+msgstr "Nama"
+
+#. translators: %s is Link to login
+#: inc/template-tags.php:423
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Anda harus <a href=\"%s\">login</a> untuk berkomentar."
+
+#: inc/template-tags.php:387
+msgid "Reply"
+msgstr "Balas"
+
+#: inc/customizer-page-editor/class/class-hestia-page-editor.php:77
+#: inc/template-tags.php:376
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#. translators: %1$s is Date, %2$s is Time
+#: inc/template-tags.php:372
+msgid "&#183; %1$s at %2$s"
+msgstr "&#183; %1$s pada %2$s"
+
+#: inc/template-tags.php:269
+msgid "Previous page"
+msgstr "Laman sebelumnya"
+
+#: inc/template-tags.php:268
+msgid "Next page"
+msgstr "Laman berikutnya"
+
+#. translators: %s is Category name
+#: inc/template-tags.php:210
+msgid "View all posts in %s"
+msgstr "Lihat semua pos di %s"
+
+#: functions.php:609 functions.php:613
+#: inc/sections/hestia-slider-section.php:154
+#: inc/sections/hestia-slider-section.php:163
+#: inc/sections/hestia-slider-section.php:172
+msgid "Button"
+msgstr "Tombol"
+
+#: inc/sections/hestia-slider-section.php:153
+#: inc/sections/hestia-slider-section.php:162
+#: inc/sections/hestia-slider-section.php:171
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/sections/hestia-slider-section.php:152
+#: inc/sections/hestia-slider-section.php:161
+#: inc/sections/hestia-slider-section.php:170
+msgid "Lorem Ipsum"
+msgstr "Lorem Ipsum"
+
+#. translators: 1 - link to customizer setting. 2 - 'customizer'
+#: inc/sections/hestia-contact-section.php:36
+#: inc/sections/hestia-shop-section.php:40
+#: inc/sections/hestia-subscribe-section.php:36
+msgid "Change this subtitle in %s."
+msgstr "Ganti subtitle di %s."
+
+#: inc/sections/hestia-contact-section.php:36
+#: inc/sections/hestia-shop-section.php:40
+#: inc/sections/hestia-subscribe-section.php:36
+msgid "customizer"
+msgstr "penyesuai"
+
+#: inc/features/feature-theme-info-section.php:27
+msgid "View PRO Features"
+msgstr "Lihat Fitur PRO"
+
+#: inc/features/feature-subscribe-section.php:76
+#: inc/sections/hestia-subscribe-section.php:41
+msgid "Subscribe to our Newsletter"
+msgstr "Berlangganan Situs Kami"
+
+#: functions.php:203 inc/features/feature-subscribe-section.php:23
+#: inc/features/feature-subscribe-section.php:33
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: inc/features/feature-navigation-tabs.php:190
+#: inc/features/feature-shop-section.php:63
+#: inc/sections/hestia-shop-section.php:45
+msgid "Products"
+msgstr "Produk"
+
+#: inc/features/feature-shop-section.php:25
+#: inc/features/feature-shop-section.php:35
+msgid "Shop"
+msgstr "Toko"
+
+#: inc/features/feature-general-settings.php:63
+msgid "If enabled, the theme will use a boxed layout."
+msgstr "Jika diadakan, tema akan menggunakan tata letak kotak."
+
+#: inc/features/feature-general-settings.php:62
+msgid "Boxed Layout"
+msgstr "Tata Letak Kotak"
+
+#: inc/features/feature-general-settings.php:45
+#: inc/features/feature-navigation-tabs.php:74
+#: inc/features/feature-navigation-tabs.php:109
+#: inc/features/feature-navigation-tabs.php:142
+#: inc/features/feature-navigation-tabs.php:179
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: inc/features/feature-contact-section.php:160
+#: inc/features/feature-navigation-tabs.php:153
+msgid "Contact Content"
+msgstr "Konten Kontak"
+
+#: inc/features/feature-contact-section.php:133
+#: inc/features/feature-subscribe-section.php:115
+msgid "Instructions"
+msgstr "Instruksi"
+
+#: inc/features/feature-contact-section.php:117
+msgid "Form Title"
+msgstr "Judul Formulir"
+
+#: inc/features/feature-contact-section.php:109
+#: inc/sections/hestia-contact-section.php:41
+msgid "Contact Us"
+msgstr "Hubungi Kami"
+
+#: inc/features/feature-contact-section.php:77
+#: inc/sections/hestia-contact-section.php:40
+msgid "Get in Touch"
+msgstr "Terhubung"
+
+#: inc/features/feature-contact-section.php:68
+#: inc/features/feature-subscribe-section.php:67
+msgid "Background Image"
+msgstr "Gambar Latar Belakang"
+
+#: inc/features/feature-contact-section.php:23
+#: inc/features/feature-contact-section.php:33
+#: inc/features/feature-contact-section.php:318
+msgid "Contact"
+msgstr "Kontak"
+
+#: inc/features/feature-color-settings.php:33
+msgid "Accent Color"
+msgstr "Warna Aksen"
+
+#: inc/features/feature-blog-section.php:99
+#: inc/features/feature-shop-section.php:103
+msgid "Number of Items"
+msgstr "Jumlah Item"
+
+#: inc/features/feature-blog-section.php:83
+#: inc/features/feature-contact-section.php:101
+#: inc/features/feature-shop-section.php:87
+#: inc/features/feature-subscribe-section.php:100
+msgid "Section Subtitle"
+msgstr "Bagian Subtitle"
+
+#: inc/features/feature-blog-section.php:67
+#: inc/features/feature-contact-section.php:85
+#: inc/features/feature-shop-section.php:71
+#: inc/features/feature-subscribe-section.php:84
+msgid "Section Title"
+msgstr "Bagian Judul"
+
+#: inc/features/feature-blog-section.php:23
+#: inc/features/feature-blog-section.php:33
+#: inc/features/feature-blog-section.php:59
+#: inc/sections/hestia-blog-section.php:41
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/features/feature-blog-section.php:75
+#: inc/features/feature-contact-section.php:93
+#: inc/features/feature-shop-section.php:79
+#: inc/features/feature-subscribe-section.php:92
+msgid "Change this subtitle in the Customizer"
+msgstr "Ganti subtitle ini di Penyesuai."
+
+#: inc/features/feature-big-title-section.php:112
+msgid "Button URL"
+msgstr "URL Tombol"
+
+#: functions.php:617 inc/features/feature-big-title-section.php:95
+msgid "Button text"
+msgstr "Teks Tombol"
+
+#: inc/features/feature-big-title-section.php:41
+msgid "Big Title Background"
+msgstr "Latar Belakang Judul Besar"
+
+#: inc/features/feature-big-title-section.php:21
+msgid "Big Title Section"
+msgstr "Bagian Judul Besar"
+
+#: inc/features/feature-about-section.php:79
+msgid "About Content"
+msgstr "Konten Tentang"
+
+#: inc/features/feature-about-section.php:56
+#: inc/features/feature-blog-section.php:51
+#: inc/features/feature-contact-section.php:51
+#: inc/features/feature-header-settings.php:72
+#: inc/features/feature-pagebuilder-frontpage.php:40
+#: inc/features/feature-shop-section.php:55
+#: inc/features/feature-subscribe-section.php:50
+msgid "Disable section"
+msgstr "Tiadakan Bagian"
+
+#: inc/features/feature-about-section.php:28
+#: inc/features/feature-about-section.php:38
+msgid "About"
+msgstr "Tentang"
+
+#: inc/features/feature-about-page.php:287
+msgid "Recommended Plugins"
+msgstr "Plugin yang Disarankan"
+
+#. translators: s - ThemeIsle Companion
+#: inc/features/feature-about-page.php:282
+msgid "If you want to take full advantage of the options this theme has to offer, please install and activate %s."
+msgstr "Jika Anda ingin mengambil pengalaman lebih lagi dari opsi tema ini, harap pasang dan aktifkan %s"
+
+#: inc/features/feature-about-page.php:254
+msgid "Makes your Contact section more engaging by creating a good-looking contact form. Interaction with your visitors has never been easier."
+msgstr "Membuat bagian Kontak Anda lebih menarik dengan membuat kontak formulir yang enak dilihat. Interaksi dengan pengunjung Anda tidak pernah semudah ini."
+
+#: inc/features/feature-about-page.php:247
+msgid "It is highly recommended that you install the companion plugin to have access to the Frontpage features, Team and Testimonials sections."
+msgstr "Sangat disarankan memasang plugin yang cocok untuk mengakses fitur halaman depan, tim dan bagian testimonial"
+
+#: inc/features/feature-about-page.php:211
+#: inc/features/feature-about-page.php:243
+#: inc/features/feature-about-page.php:290
+msgid "Deactivate"
+msgstr "Matikan"
+
+#: inc/features/feature-about-page.php:210
+#: inc/features/feature-about-page.php:242
+#: inc/features/feature-about-page.php:289
+#: inc/plugin-install/class-hestia-plugin-install-helper.php:80
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/features/feature-about-page.php:209
+#: inc/features/feature-about-page.php:241
+#: inc/features/feature-about-page.php:288
+msgid "Install and Activate"
+msgstr "Pasang dan Aktifkan"
+
+#: inc/features/feature-about-page.php:208
+msgid "Version: "
+msgstr "Versi:"
+
+#: inc/features/feature-about-page.php:207
+msgid "Already activated"
+msgstr "Sudah diaktifkan"
+
+#: inc/features/feature-about-page.php:199
+#: inc/features/feature-theme-info-section.php:57
+msgid "24/7 HelpDesk Professional Support"
+msgstr "24/7 Bantuan Profesional."
+
+#: inc/features/feature-about-page.php:198
+#: inc/features/feature-theme-info-section.php:49
+msgid "Quality Support"
+msgstr "Bantuan Kualitas"
+
+#: inc/features/feature-about-page.php:181
+#: inc/features/feature-theme-info-section.php:53
+msgid "Change colors for the header overlay, header text and navbar."
+msgstr "Ganti warna untuk hamparan header, tulisan header dan navbar."
+
+#: inc/features/feature-about-page.php:180
+#: inc/features/feature-theme-info-section.php:45
+msgid "Fully Customizable Colors"
+msgstr "Warna Dapat Disesuaikan"
+
+#: inc/features/feature-about-page.php:175
+#: inc/features/feature-theme-info-section.php:52
+msgid "You will be able to add more content to your site header with an awesome slider."
+msgstr "Anda dapat menambahkan konten lebih banyak ke header situs dengan slider keren."
+
+#: inc/features/feature-about-page.php:174
+#: inc/features/feature-theme-info-section.php:44
+msgid "Header Slider"
+msgstr "Header Slider"
+
+#: inc/features/feature-about-page.php:157
+msgid "You can use any background image you want."
+msgstr "Anda dapat menggunakan gambar latar belakang mana saja yang diinginkan."
+
+#: inc/features/feature-about-page.php:156
+msgid "Background image"
+msgstr "Gambar latar belakang"
+
+#: inc/features/feature-about-page.php:151
+msgid "Big title, Features, About, Team, Testimonials, Subscribe, Blog, Contact"
+msgstr "Judul besar, Fitur, Tentang, Tim, Testimonial, Langganan, Blog, Kontak"
+
+#: inc/features/feature-about-page.php:145
+msgid "Ready for e-commerce. You can build an online store here."
+msgstr "Bisa untuk e-commerce. Anda dapat membangun toko online disini."
+
+#: inc/features/feature-about-page.php:144
+msgid "WooCommerce Compatible"
+msgstr "Cocok dengan WooCommerce"
+
+#: inc/features/feature-about-page.php:139
+msgid "Responsive layout. Works on every device."
+msgstr "Tata letak responsif. Bagus untuk segala jenis perangkat."
+
+#: inc/features/feature-about-page.php:138
+msgid "Mobile friendly"
+msgstr "Bersahabat dengan HP"
+
+#. translators: s - theme name
+#: inc/features/feature-about-page.php:135
+msgid "Get %s now!"
+msgstr "Dapatkan %s sekarang!"
+
+#: inc/features/feature-about-page.php:121
+msgid "Using the WordPress Customizer you can easily customize every aspect of the theme."
+msgstr "Menggunakan penyesuai WordPress Anda dapat dengan mudah menyesuaikan setiap aspek tema."
+
+#: inc/features/feature-about-page.php:103
+msgid "We have compiled a list of steps for you to take so we can ensure that the experience you have using one of our products is very easy to follow."
+msgstr "Kami telah menyusun daftar penggunaan untuk Anda, dipastikan langkah-langkah penggunaan mudah diikuti."
+
+#: inc/features/feature-about-page.php:102
+#: inc/features/feature-about-page.php:104
+msgid "Recommended actions"
+msgstr "Tindakan yang disarankan"
+
+#: inc/features/feature-about-page.php:92
+msgid "In the documentation below you will find an easy way to build a great looking landing page using a drag-and-drop content builder plugin."
+msgstr "Pada dokumentasi dibawah Anda akan menemukan cara termudah untuk membuat halaman landasan yang enak dilihat menggunakan plugin drag-and-drop pembuat konten."
+
+#: inc/features/feature-about-page.php:90
+msgid "Build a landing page with a drag-and-drop content builder"
+msgstr "Buatlah halaman landasan menggunakan drag-and-drop pembuat konten"
+
+#: inc/features/feature-about-page.php:83
+msgid "If you find yourself in a situation where everything on your site is running very slowly, you might consider having a look at the documentation below where you will find the most common issues causing this and possible solutions for each of the issues."
+msgstr "Jika Anda mengalami kelambatan pada situs, Anda mungkin ingin mempertimbangkan untuk melihat dokumentasi dibawah dimana Anda dapat menemukan permasalahan yang sering terjadi dan solusi yang mungkin dapat menyelesaikan."
+
+#: inc/features/feature-about-page.php:81
+msgid "Speed up your site"
+msgstr "Percepat situs Anda"
+
+#: inc/features/feature-about-page.php:75
+#: inc/features/feature-about-page.php:84
+#: inc/features/feature-about-page.php:93
+msgid "View how to do this"
+msgstr "Lihat bagaimana caranya"
+
+#: inc/features/feature-about-page.php:74
+msgid "If you want to make changes to the theme's files, those changes are likely to be overwritten when you next update the theme. In order to prevent that from happening, you need to create a child theme. For this, please follow the documentation below."
+msgstr "Jika Anda ingin melakukan perubahan pada berkas tema, perubahan ini akan ditimpa kembali ketika tema diperbarui. Untuk membuat perubahan ini permanen, Anda perlu membuat tema anak. Silahkan ikuti dokumentasi dibawah."
+
+#: inc/features/feature-about-page.php:72
+msgid "Create a child theme"
+msgstr "Membuat tema anak"
+
+#: inc/features/feature-about-page.php:65
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Ingin mendapatkan perubahan pokok terbaru pada tema? Cukup lihat catatan perubahan kami dibawah untuk merasakan fitur terbaru yang diperbaiki dan di implementasikan"
+
+#: inc/features/feature-about-page.php:57
+#: inc/features/feature-about-page.php:111
+msgid "Read full documentation"
+msgstr "Baca dokumentasi lengkap"
+
+#: functions.php:684 inc/features/feature-about-page.php:56
+#: inc/features/feature-about-page.php:112
+msgid "Need more details? Please check our full documentation for detailed information on how to use Hestia."
+msgstr "Perlu rincian lagi? Silahkan lihat dokumentasi lengkap kami tentang menggunakan Hestia"
+
+#: inc/features/feature-about-page.php:47
+msgid "We want to make sure you have the best experience using Hestia, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Hestia as much as we enjoy creating great products."
+msgstr "Kami ingin memastikan Anda mendapatkan pengalaman yang luar biasa menggunakan Hestia dan itulah kenapa kami mengumpulan semua informasi bermanfaat. Kami harap Anda senang menggunakan Hestia, sebagaimana kami senang menciptakan produk terbaik."
+
+#: inc/features/feature-about-page.php:45
+#: inc/features/feature-about-page.php:48
+msgid "Contact Support"
+msgstr "Kontak Bantuan"
+
+#: inc/features/feature-about-page.php:40
+msgid "Free vs PRO"
+msgstr "Gratis VS PRO"
+
+#: inc/features/feature-about-page.php:39
+#: inc/features/feature-about-page.php:63
+#: inc/features/feature-about-page.php:66
+msgid "Changelog"
+msgstr "Catatan Perubahan"
+
+#: inc/features/feature-about-page.php:38
+msgid "Support"
+msgstr "Bantuan"
+
+#: inc/features/feature-about-page.php:37
+msgid "Useful Plugins"
+msgstr "Plugin Bermanfaat"
+
+#: inc/features/feature-about-page.php:36
+#: inc/features/feature-about-page.php:286
+msgid "Recommended Actions"
+msgstr "Tindakan Disarankan"
+
+#: inc/features/feature-about-page.php:35
+msgid "Getting Started"
+msgstr "Mulai"
+
+#. translators: s - theme name
+#: inc/features/feature-about-page.php:25
+msgid "Welcome to %s! - Version "
+msgstr "Selamat datang di %s! - Versi"
+
+#: functions.php:684 inc/features/feature-about-page.php:20
+#: inc/features/feature-about-page.php:22
+msgid "About Hestia"
+msgstr "Tentang Hestia"
+
+#: inc/customizer.php:139
+msgid "Blog Settings"
+msgstr "Pengaturan Blog"
+
+#: inc/customizer.php:131 inc/features/feature-about-page.php:150
+msgid "Frontpage Sections"
+msgstr "Bagian Halaman Depan"
+
+#: inc/customizer.php:124 inc/features/feature-navigation-tabs.php:83
+msgid "Appearance Settings"
+msgstr "Pengaturan Tampilan"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:109
+#: inc/features/feature-about-page.php:193
+#: inc/features/feature-theme-info-section.php:55
+msgid "A fully customizable pricing plans section."
+msgstr "Bagian daftar harga yang sangat dapat disesuaikan."
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:108
+#: inc/features/feature-about-page.php:187
+#: inc/features/feature-theme-info-section.php:54
+msgid "Portfolio section with two possible layouts."
+msgstr "Bagian portfolio dengan 2tata letak yang memungkinkan."
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:106
+#: inc/features/feature-theme-info-section.php:60
+msgid "Get the PRO version!"
+msgstr "Dapatkan versi PRO!"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:102
+#: inc/features/feature-about-page.php:162
+#: inc/features/feature-theme-info-section.php:48
+msgid "Section Reordering"
+msgstr "Penataan Ulang Bagian"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:101
+#: inc/features/feature-about-page.php:192
+#: inc/features/feature-theme-info-section.php:47
+msgid "Pricing Plans Section"
+msgstr "Bagian Daftar Harga"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:100
+#: inc/features/feature-about-page.php:186
+#: inc/features/feature-theme-info-section.php:46
+msgid "Jetpack Portfolio"
+msgstr "Portofolio Jetpack"
+
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:83
+#: inc/features/feature-about-page.php:54
+#: inc/features/feature-about-page.php:113
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#. translators: %s Path in plugin
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:93
+msgid "And then you need to navigate to its Settings, and use the following in the Subscription form:"
+msgstr "Dan kemudian Anda perlu mengarah ke masing-masing pengaturan, lalu gunakan dibawah ini di formulir Berlangganan:"
+
+#. translators: %s Path in plugin wrapped
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:85
+msgid "After installing the plugin, you need to navigate to %s and configure the plugin."
+msgstr "Setelah memasang plugin, Anda perlu mengarah ke %s, dan konfigurasikan plugin."
+
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:77
+#: inc/features/feature-navigation-tabs.php:119
+msgid "SendinBlue plugin"
+msgstr "Plugin SendinBlue"
+
+#. translators: %1$s is Path wrapped in <b>, %2$s is Plugin link
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:75
+msgid "The main content of this section is customizable in: %1$s. There you must add the \"SendinBlue Newsletter\" widget. But first you will need to install %2$s."
+msgstr "Konten utama pada bagian ini sangat bisa disesuaikan di: %1$s. Maka Anda perlu menambahkan widget \"SendinBlue Newsletter\". Tapi pertama Anda perlu memasang %2$s."
+
+#. translators: %s is Path
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:68
+msgid "Customize > Widgets > Blog Subscribe Section"
+msgstr "Kustomisasi > Widget > Bagian Langganan Blog"
+
+#. translators: %s is Path
+#: inc/customizer-subscribe-info/class-hestia-subscribe-info.php:59
+msgid "Customize > Widgets > Subscribe Section"
+msgstr "Kustomisasi > Widget > Bagian Langganan"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:792
+#: inc/customizer-repeater/class/class-hestia-repeater.php:830
+msgid "Add Icon"
+msgstr "Tambah ikon"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:787
+#: inc/customizer-repeater/class/class-hestia-repeater.php:824
+msgid "Remove Icon"
+msgstr "Singkirkan ikon"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:756
+msgid "Social icons"
+msgstr "Ikon media sosial"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:742
+msgid "None"
+msgstr "Nihil"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:737
+msgid "Image type"
+msgstr "Jenis gambar"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:724
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:721
+#: inc/customizer-repeater/class/class-hestia-repeater.php:741
+msgid "Image"
+msgstr "Gambar"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer-repeater/class/class-hestia-repeater.php:685
+#: inc/customizer-repeater/class/class-hestia-repeater.php:763
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#. translators: Fontawesome link with full list of icons available
+#: inc/customizer-repeater/class/class-hestia-repeater.php:683
+#: inc/customizer-repeater/class/class-hestia-repeater.php:761
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "Catatan: Beberapa ikon mungkin tidak ditampilkan disini. Anda dapat melihat daftar lengkapnya di %1$s"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:677
+#: inc/customizer-repeater/class/class-hestia-repeater.php:740
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:489
+#: inc/customizer-repeater/class/class-hestia-repeater.php:605
+msgid "Delete field"
+msgstr "Hapus bidang"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:470
+#: inc/customizer-repeater/class/class-hestia-repeater.php:593
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: functions.php:621
+#: inc/customizer-repeater/class/class-hestia-repeater.php:441
+#: inc/customizer-repeater/class/class-hestia-repeater.php:460
+#: inc/customizer-repeater/class/class-hestia-repeater.php:566
+#: inc/customizer-repeater/class/class-hestia-repeater.php:584
+#: inc/customizer-repeater/class/class-hestia-repeater.php:784
+#: inc/customizer-repeater/class/class-hestia-repeater.php:810
+msgid "Link"
+msgstr "Link"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:432
+#: inc/customizer-repeater/class/class-hestia-repeater.php:451
+#: inc/customizer-repeater/class/class-hestia-repeater.php:557
+#: inc/customizer-repeater/class/class-hestia-repeater.php:575
+#: inc/features/feature-big-title-section.php:78
+msgid "Text"
+msgstr "Teks"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:423
+#: inc/customizer-repeater/class/class-hestia-repeater.php:548
+msgid "Subtitle"
+msgstr "Subtitle"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:414
+#: inc/customizer-repeater/class/class-hestia-repeater.php:539
+#: inc/features/feature-big-title-section.php:60
+#: inc/typography/typography-settings.php:196
+msgid "Title"
+msgstr "Judul"
+
+#: functions.php:609 functions.php:613
+#: inc/customizer-repeater/class/class-hestia-repeater.php:393
+#: inc/customizer-repeater/class/class-hestia-repeater.php:404
+#: inc/customizer-repeater/class/class-hestia-repeater.php:519
+#: inc/customizer-repeater/class/class-hestia-repeater.php:529
+msgid "Color"
+msgstr "Warna"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:148
+msgid "Customizer Repeater"
+msgstr "Penyesuai Pengulang"
+
+#: inc/customizer-repeater/class/class-hestia-repeater.php:143
+msgid "Add new field"
+msgstr "Tambahkan bidang baru"
+
+#: inc/customizer-page-editor/class/class-hestia-page-editor.php:61
+#: inc/features/feature-about-section.php:107
+msgid "About background"
+msgstr "Latar Tentang"
+
+#: inc/customizer-info/class/class-hestia-customizer-info-singleton.php:85
+msgid "WooCommerce plugin"
+msgstr "Plugin WooCommerce"
+
+#. translators: %1$s is Plugin Name
+#: inc/customizer-info/class/class-hestia-customizer-info-singleton.php:84
+msgid "To have access to a shop section please install and configure %1$s."
+msgstr "Untuk mendapatkan akses ke bagian toko silahkan pasang dan konfigurasi %1$s."
+
+#. translators: %1$s is Plugin name
+#: inc/customizer-contact-info/class-hestia-contact-info.php:43
+msgid "In order to add a contact form to this section, you need to install the %s plugin."
+msgstr "Untuk menambah formulir kontak ke bagian ini, Anda perlu masang plugin %s."
+
+#. translators: %s is Path in plugin
+#: inc/customizer-contact-info/class-hestia-contact-info.php:38
+msgid "Settings > Pirate Forms"
+msgstr "Pengaturan > Pirate Forms"
+
+#. translators: %s is Path in plugin wrapped
+#: inc/customizer-contact-info/class-hestia-contact-info.php:36
+msgid "You should be able to see the form on your front-page. You can configure settings from %s, in your WordPress dashboard."
+msgstr "Anda dapat melihat form di halaman depan. Anda dapat menentukan pengaturannya dari %s, pada dasbor WordPress Anda."
+
+#: inc/template-tags.php:1014
+msgid "Toggle Navigation"
+msgstr "Toggle Navigasi"
+
+#: functions.php:605
+msgid "Button Text"
+msgstr "Teks Tombol"
+
+#: functions.php:433
+msgid "Read more&hellip;"
+msgstr "Baca Selengkapnya&hellip;"
+
+#: functions.php:364 inc/woocommerce/functions.php:427
+msgid "View cart"
+msgstr "Lihat keranjang"
+
+#: functions.php:276
+msgctxt "Roboto Slab font: on or off"
+msgid "on"
+msgstr "pada"
+
+#: functions.php:275
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "pada"
+
+#: functions.php:218
+msgid "Footer Three"
+msgstr "Footer Tiga"
+
+#: functions.php:217
+msgid "Footer Two"
+msgstr "Footer Dua"
+
+#: functions.php:216
+msgid "Footer One"
+msgstr "Footer Satu"
+
+#: functions.php:204
+msgid "Blog Subscribe Section"
+msgstr "Bagian Langganan Blog"
+
+#: functions.php:202
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:141
+msgid "Footer Menu"
+msgstr "Menu Footer"
+
+#: functions.php:140 functions.php:709
+msgid "Primary Menu"
+msgstr "Menu Utama"
+
+#: inc/template-tags.php:809
+msgid "WordPress"
+msgstr "WordPress"
+
+#. translators: %s is WordPress
+#: inc/template-tags.php:808
+msgid "http://wordpress.org"
+msgstr "http://wordpress.org"
+
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.59)  #-#-#-#-#
+#. translators: %s is Theme name
+#. #-#-#-#-#  hestia.pot (Hestia 1.1.59)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/customizer-theme-info/class-hestia-customizer-theme-info.php:81
+#: inc/template-tags.php:803
+msgid "Hestia"
+msgstr "Hestia"
+
+#. translators: %1$s is Theme Name, %2$s is WordPress
+#: inc/template-tags.php:799
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Ditenagai oleh %2$s"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#. translators: %s is Image sizes for attachment single page.
+#: attachment.php:74
+msgid "Size: %s"
+msgstr "Ukuran: %s"
+
+#. translators: %1$s is Author name, %2$s is Date
+#. translators: %1$s is Author name wrapped, %2$s is Date
+#: attachment.php:20 single.php:21
+msgid "Published by %1$s on %2$s"
+msgstr "Dipublikasikan oleh %1$s pada %2$s"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/hestia/"
+msgstr "https://themeisle.com/themes/hestia/"
